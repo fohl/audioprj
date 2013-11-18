@@ -1,0 +1,24 @@
+file /home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct,line 256:
+	Configure(confdir = .sconf_temp)
+scons: Configure: pkg-config installed? 
+scons: Configure: ".sconf_temp/conftest_0" is up to date.
+scons: Configure: The original builder output was:
+  |pkg-config --atleast-pkgconfig-version=0
+  |
+scons: Configure: (cached) yes
+
+scons: Configure: libxml++-2.6 installed? 
+scons: Configure: ".sconf_temp/conftest_1" is up to date.
+scons: Configure: The original builder output was:
+  |pkg-config --exists 'libxml++-2.6'
+  |
+scons: Configure: (cached) yes
+
+scons: Configure: liblo installed? 
+scons: Configure: ".sconf_temp/conftest_2" is up to date.
+scons: Configure: The original builder output was:
+  |pkg-config --exists 'liblo'
+  |
+scons: Configure: (cached) yes
+
+

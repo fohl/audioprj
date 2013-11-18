@@ -1,0 +1,48 @@
+package oscreceiver;
+
+import java.net.SocketException;
+
+import osccontroller.IController;
+
+import com.illposed.osc.*;
+
+/**
+ * Klasse zum Empfangen von OSC-Nachrichten des E-Technik Laptops
+ *
+ */
+public class Receiver {
+	
+	private final int port = 25001;
+	OSCPortIn receiver;
+
+	public Receiver (IController controll) {
+		
+		final IController controller = controll;
+		
+		//Empfaenger starten, laeuft im separaten Thread
+		try {
+			receiver = new OSCPortIn(port);
+			
+			OSCListener listener = new OSCListener() {
+				public void acceptMessage(java.util.Date time, OSCMessage message) {
+					controller.updateSpeed((float)message.getArguments()[0], time);
+				}
+			};
+			
+			//Pfad auf den gehoert wird (alle)
+			receiver.addListener("/", listener);
+			receiver.startListening();
+			
+		} catch (SocketException e) {
+			e.printStackTrace();
+		}
+	}
+	
+	/**
+	 * Schaltet den 
+	 */
+	public void exit() {
+		
+	}
+
+}

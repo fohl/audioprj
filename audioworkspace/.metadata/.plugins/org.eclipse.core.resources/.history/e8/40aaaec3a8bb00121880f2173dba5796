@@ -1,0 +1,20 @@
+package oscreceiver;
+
+import com.illposed.osc.OSCListener;
+import com.illposed.osc.OSCPortIn;
+
+public class Receiver {
+	
+	private final int port = 25001;
+
+	
+	OSCPortIn receiver = new OSCPortIn(port);
+	OSCListener listener = new OSCListener() {
+		public void acceptMessage(java.util.Date time, OSCMessage message) {
+			System.out.println("Message received!");
+		}
+	};
+	receiver.addListener("/message/receiving", listener);
+	receiver.startListening();
+
+}

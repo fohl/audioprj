@@ -1,0 +1,31 @@
+package oscreceiver;
+
+import java.net.SocketException;
+
+import com.illposed.osc.*;
+
+public class Receiver {
+	
+	private final int port = 25001;
+
+	public void test () {
+	
+		OSCPortIn receiver;
+		try {
+			receiver = new OSCPortIn(port);
+			OSCListener listener = new OSCListener() {
+				public void acceptMessage(java.util.Date time, OSCMessage message) {
+					System.out.println("Message received!");
+				}
+			};
+		} catch (SocketException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+	
+		receiver.addListener("/message/receiving", listener);
+		receiver.startListening();
+	}
+
+}

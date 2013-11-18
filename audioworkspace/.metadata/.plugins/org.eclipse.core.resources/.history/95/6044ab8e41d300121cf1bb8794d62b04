@@ -1,0 +1,172 @@
+package osccontroller;
+
+import java.util.Collections;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Timer;
+
+public class SpeedDistanceControll implements IController {
+	
+	// Liste mit Orten die virtuell angefahren werden
+	private List<PlaceParameter> places;
+	// Timer zur Zeitbestimmung
+	private Timer timer;
+	// Klasse zur Berechnung der gefahrenen Strecke
+	private DistanceCalculator distanceCalc;
+	// Der Offset welcher bestimmt wann eine Quelle mit ein und ausblenden beginnt
+	private float kmOffset;
+	//OSC Sender
+	private OSCSender sender;
+	//Argumente fuer OSC-Nachrichten
+	private List<Object> args = new LinkedList<Object>();
+	
+	/**
+	 * Konstruktor
+	 */
+	public SpeedDistanceControll (OSCSender sender) {
+		
+		this.sender = sender;
+		
+		this.kmOffset = 0.3F * 1000.0F;
+		this.places = new LinkedList<PlaceParameter>();
+		
+		this.timer = null;//new Timer();
+		this.distanceCalc = null;//new DistanceCalculator(_DRIVINGTIME, sender);
+	}
+
+	/**
+	 * Fuegt einen neuen virtuellen Ort hinzu.
+	 * 
+	 * @param[in] oscPath
+	 * 		Verbindungs Path zu einem OSC - Plugin
+	 * @param[in] wonderID
+	 * 		ID zur Indentifizierung einer Wonder-Quelle
+	 * @param[in] placeByKM
+	 * 		Standort in Kilometern eines virtuellen Ortes
+	 * @param[in] side
+	 * 		Seite der Platzierung der Quelle (links oder rechts) in Bezug auf den Hoehrer
+	 */
+	public void addTrack (String oscPath, int wonderID, float placeByKM, String side) {
+
+		// neuen Ort hinzufuegen
+		this.places.add(new PlaceParameter(oscPath, wonderID, placeByKM * 1000.0F, side, (placeByKM + 0.7F) * 1000.F, ((placeByKM + 0.7F) * 1000.F) + (2 * kmOffset)));
+	}
+	
+	public void deleteTrackByName (String oscPath) {
+		for (PlaceParameter p : this.places) {
+			
+		}
+	}
+	
+	/**
+	 * Liefert einen PlaceParameter aus der Liste am angegebenen Index
+	 * 
+	 * @param[in] index
+	 * 
+	 * @return PlaceParameter
+	 */
+	public PlaceParameter getTrack (int index) {
+		return this.places.get(index);
+	}
+	
+	/**
+	 * Liefert eine Liste der aktuellen PlaceParameter
+	 * 
+	 * @return Liste<PlaceParameter>
+	 */
+	public List<PlaceParameter> getTrackList() {
+		return this.places;
+	}
+	
+	/**
+	 * Setzt die Liste der PlaceParameter neu
+	 * 
+	 * @param newListe<PlaceParameter>
+	 */
+	public void setTrackList(List<PlaceParameter> newListe) {
+		this.places = newListe;
+	}
+
+	/**
+	 * Empfaengt eine neue Geschwindigkeit.
+	 * 
+	 * @param[in] speed
+	 * 		Aktuelle Geschwindigkeit
+	 * @param[in] time
+	 * 		Zeit in der die Geschwindigkeit auftrat
+	 */
+	public void updateSpeed(float speed) {
+
+		if (this.distanceCalc != null)
+			this.distanceCalc.setSpeed(speed);
+	}
+	
+	/**
+	 * Startet die Fahrt des virtuellen Autos.
+	 */
+	public void startDriving () {
+		
+		// Liste nach Kilometerstand sortieren
+		Collections.sort(this.places, new PlaceComparator());
+		int pos = 0;
+		float midDistance = 0;
+		
+		for (PlaceParameter p : this.places) {
+			// Alle Plugins Lautstaerke aus
+			args.clear();
+			args.add(0.0F);
+			sender.sendCubase(p.getOscPath(), args);
+			// Alle Quellen auf Startpositionen!
+			args.clear();
+			args.add(p.getWonderID());
+			if(p.isLeft()) {
+				args.add(DistanceCalculator.wonderLeft);
+			} else {
+				args.add(DistanceCalculator.wonderRight);
+			}
+			args.add(DistanceCalculator.MOV_START_POINT);
+			args.add(0.0f);
+			args.add(0.0f);
+			args.add(0.0f);
+			sender.sendWonder("/WONDER/source/position", args);
+
+			if (pos < (this.places.size() - 1)) {
+				midDistance = (((this.places.get(pos + 1).getPlaceMeter() - p.getPlaceMeter()) / 2) + p.getPlaceMeter());
+				p.setStartMeter(midDistance - this.kmOffset);
+				p.setEndMeter(midDistance + this.kmOffset);
+				pos++;
+			}
+			System.out.println("Quelle: KM: "+p.getPlaceMeter()+" StartKM: "+p.getStartMeter()+" StopKM: "+p.getEndMeter());
+		}
+		
+		// Lautstaerke Plugin 0 ein
+		args.clear();
+		args.add(1.0F);
+		sender.sendCubase(this.places.get(0).getOscPath(), args);
+		 
+		this.timer = new Timer();
+		this.distanceCalc = new DistanceCalculator(_DRIVINGTIME, sender, kmOffset);
+		 
+		this.distanceCalc.setPlaces(this.places);
+		// Startet die virtuelle Fahrt
+		// Alle 100ms die Distance (Position) des virtuellen Autos neu berechnen
+		try { 
+			this.timer.schedule(this.distanceCalc, _DRIVINGTIME, 100);
+		} catch (Exception e) {
+			
+		}
+	}
+	
+	/**
+	 * Stoppt die Fahrt des virtuellen Autos.
+	 */
+	public void stopDriving () {
+		
+		if (this.timer != null) {
+		
+			// Beendet sowohl Timer als auch TimerTask
+			this.timer.cancel();
+			this.timer.purge();
+		}
+	}
+}

@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+C:\Users\Luuc\Documents\Studium\audiopr\audioworkspace\.metadata\.plugins\org.eclipse.jdt.core
+773580145.index
+881381217.index

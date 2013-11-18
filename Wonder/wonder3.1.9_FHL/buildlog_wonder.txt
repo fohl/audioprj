@@ -1,0 +1,2094 @@
+fohl@FOHL-PC02:Dokumente$ cd ~/Src/Wonder/Wonder_Waas/
+fohl@FOHL-PC02:Wonder_Waas$ aptitude search libxml++
+p   libghc-libxml-sax-dev           - bindings for libXML2 SAX                  
+p   libghc-libxml-sax-dev:i386      - bindings for libXML2 SAX                  
+v   libghc-libxml-sax-dev-0.7.2-31f -                                           
+v   libghc-libxml-sax-dev-0.7.2-548 -                                           
+p   libghc-libxml-sax-doc           - bindings for libXML2 SAX; documentation   
+p   libghc-libxml-sax-prof          - bindings for libXML2 SAX; profiling librar
+p   libghc-libxml-sax-prof:i386     - bindings for libXML2 SAX; profiling librar
+v   libghc-libxml-sax-prof-0.7.2-31 -                                           
+v   libghc-libxml-sax-prof-0.7.2-54 -                                           
+v   libglobus-libxml2               -                                           
+v   libglobus-libxml2:i386          -                                           
+v   libglobus-libxml2-dev           -                                           
+v   libglobus-libxml2-dev:i386      -                                           
+p   libhtml-treebuilder-libxml-perl - HTML::TreeBuilder and XPath compatible int
+i A libxml++2.6-2                   - C++ interface to the GNOME XML library (li
+p   libxml++2.6-2:i386              - C++ interface to the GNOME XML library (li
+p   libxml++2.6-dbg                 - C++ interface to the GNOME XML library (de
+p   libxml++2.6-dbg:i386            - C++ interface to the GNOME XML library (de
+p   libxml++2.6-dev                 - C++ interface to the GNOME XML library (li
+p   libxml++2.6-dev:i386            - C++ interface to the GNOME XML library (li
+p   libxml++2.6-doc                 - HTML interface documentation and examples 
+p   libxml-atom-fromowl-perl        - export RDF data to Atom                   
+p   libxml-atom-microformats-perl   - parse microformats in Atom content        
+p   libxml-atom-owl-perl            - parse an Atom file into RDF               
+p   libxml-atom-perl                - module for manipulating Atom feeds        
+p   libxml-atom-service-perl        - Atom Service Document object              
+p   libxml-atom-simplefeed-perl     - Perl module for generation of Atom syndica
+p   libxml-autowriter-perl          - Perl module to produce DOCTYPE-based XML o
+p   libxml-bare-perl                - Perl module to parse XML into a Perl hash 
+p   libxml-bare-perl:i386           - Perl module to parse XML into a Perl hash 
+p   libxml-checker-perl             - Perl Module zur Validierung von XML       
+p   libxml-commonns-perl            - list of commonly used XML namespaces      
+i A libxml-commons-external-java    - XML Commons - externer Code wie DOM, SAX, 
+p   libxml-commons-external-java-do - Documentation of XML Commons external API 
+i A libxml-commons-resolver1.1-java - Resolver-Bibliothek für XML-Entitys und UR
+p   libxml-commons-resolver1.1-java - XML entity and URI resolver library -- doc
+p   libxml-commons-resolver1.1-java - XML entity and URI resolver library -- nat
+p   libxml-commons-resolver1.1-java - XML entity and URI resolver library -- nat
+p   libxml-compile-cache-perl       - module that keeps the cache of compiled XM
+p   libxml-compile-dumper-perl      - module to help saving and loading the comp
+p   libxml-compile-perl             - Perl module to translate between XML and P
+p   libxml-compile-tester-perl      - Perl module to support regression testing 
+p   libxml-csv-perl                 - Perl Modul zur Wandlung von CSV Dokumenten
+p   libxml-dom-perl                 - Perl Modul zum Erstellen von DOM Level 1 k
+p   libxml-dom-xpath-perl           - Fügt XML::DOM mittels XML::XPathEngine Unt
+p   libxml-dt-perl                  - module for down translation of XML files  
+p   libxml-dtdparser-perl           - perl module providing a quick and dirty DT
+p   libxml-dumper-perl              - Perl-Modul für das Speichern von Perl-Obje
+p   libxml-easy-perl                - Perl module for XML processing with a clea
+p   libxml-easy-perl:i386           - Perl module for XML processing with a clea
+p   libxml-easyobj-perl             - Perl module for easy XML object navigation
+p   libxml-encoding-perl            - Perl module for parsing encoding map XML f
+p   libxml-feed-perl                - syndication feed parser and auto-discovery
+p   libxml-feedpp-mediarss-perl     - Perl module providing Media RSS support fo
+p   libxml-feedpp-perl              - module to parse/write/merge/edit RSS/RDF/A
+p   libxml-filter-buffertext-perl   - Perl module for putting all characters int
+p   libxml-filter-detectws-perl     - Perl module for detecting ignorable whites
+p   libxml-filter-reindent-perl     - Perl module for reformatting whitespace fo
+p   libxml-filter-saxt-perl         - Perl-Modul zur Vervielfältigung von Events
+p   libxml-filter-sort-perl         - Perl module that implement a SAX filter fo
+p   libxml-filter-xslt-perl         - Perl module for XSLT as a SAX Filter      
+p   libxml-generator-perl           - Perl module for generating XML files      
+p   libxml-grddl-perl               - transform XML and XHTML to RDF            
+p   libxml-grove-perl               - Perl module for accessing parsed *ML insta
+p   libxml-handler-composer-perl    - Perl module for generating XML output     
+p   libxml-handler-printevents-perl - Perl module for printing PerlSAX events (f
+p   libxml-handler-trees-perl       - Perl module for building tree structures u
+p   libxml-handler-yawriter-perl    - Perl module for writing XML documents     
+p   libxml-java                     - namespace aware SAX-Parser utility library
+p   libxml-libxml-debugging-perl    - get debugging information from XML::LibXML
+p   libxml-libxml-iterator-perl     - Iterator for XML parse-trees genereated by
+p   libxml-libxml-lazybuilder-perl  - easy and lazy way to create XML documents 
+p   libxml-libxml-perl              - Perl-Schnittstelle zur Bibliothek libxml2 
+p   libxml-libxml-perl:i386         - Perl-Schnittstelle zur Bibliothek libxml2 
+p   libxml-libxml-simple-perl       - Perl module that uses the XML::LibXML pars
+p   libxml-libxslt-perl             - Perl-Schnittstelle zur GNOME-Bibliothek li
+p   libxml-libxslt-perl:i386        - Perl-Schnittstelle zur GNOME-Bibliothek li
+p   libxml-light-ocaml              - mininal XML parser and printer for OCaml (
+p   libxml-light-ocaml:i386         - mininal XML parser and printer for OCaml (
+v   libxml-light-ocaml-bmwk7        -                                           
+p   libxml-light-ocaml-dev          - mininal XML parser and printer for OCaml (
+p   libxml-light-ocaml-dev:i386     - mininal XML parser and printer for OCaml (
+v   libxml-light-ocaml-dev-bmwk7    -                                           
+v   libxml-light-ocaml-dev-kz7l6:i3 -                                           
+v   libxml-light-ocaml-kz7l6:i386   -                                           
+p   libxml-mini-perl                - Perl-Implementierung des MiniXML XML-Gener
+p   libxml-namespace-perl           - simple support for XML namespaces         
+p   libxml-namespacefactory-perl    - simple factory objects for SAX namespaced 
+i A libxml-namespacesupport-perl    - Perl-Modul für die Unterstützung einfacher
+p   libxml-node-perl                - Perl module for parsing XML files node bas
+p   libxml-nodefilter-perl          - Perl module for a generic node-filter clas
+p   libxml-opml-perl                - Perl module to create and update OPML file
+p   libxml-opml-simplegen-perl      - module for creating OPML using XML::Simple
+p   libxml-parser-lite-tree-perl    - lightweight XML tree builder              
+i A libxml-parser-perl              - Perl-Modul zum Parsen von XML-Dateien     
+p   libxml-parser-perl:i386         - Perl-Modul zum Parsen von XML-Dateien     
+p   libxml-parser-ruby              - Übergangspaket für ruby-xmlparser         
+v   libxml-parser-ruby:i386         -                                           
+p   libxml-parser-ruby1.8           - Übergangspaket für ruby-xmlparser         
+v   libxml-parser-ruby1.8:i386      -                                           
+p   libxml-parser-ruby1.9.1         - Übergangspaket für ruby-xmlparser         
+v   libxml-parser-ruby1.9.1:i386    -                                           
+p   libxml-perl                     - Perlmodule für XML                        
+p   libxml-qofqsf-perl              - convert personal data to and from QSF XML 
+p   libxml-quote-perl               - XML quote/dequote functions               
+p   libxml-quote-perl:i386          - XML quote/dequote functions               
+p   libxml-regexp-perl              - Perl-Modul für reguläre Ausdrücke für XML-
+p   libxml-rss-feed-perl            - Perl module for Persistent XML RSS (RDF Si
+p   libxml-rss-libxml-perl          - module for creating, parsing, updating RSS
+p   libxml-rss-perl                 - Perl module for managing RSS (RDF Site Sum
+p   libxml-rss-simplegen-perl       - A Perl module for easily writing RSS files
+p   libxml-rsslite-perl             - lightweight, "relaxed" RSS (and XML-ish) p
+p   libxml-ruby                     - Transitional package for ruby-libxml      
+v   libxml-ruby:i386                -                                           
+p   libxml-ruby1.8                  - Transitional package for ruby-libxml      
+v   libxml-ruby1.8:i386             -                                           
+p   libxml-ruby1.9.1                - Transitional package for ruby-libxml      
+v   libxml-ruby1.9.1:i386           -                                           
+i A libxml-sax-base-perl            - Basisklasse für SAX-Treiber und -Filter   
+p   libxml-sax-expat-incremental-pe - XML::SAX::Expat subclass for non-blocking 
+i A libxml-sax-expat-perl           - Perl-Modul für einen SAX2-Treiber für Expa
+p   libxml-sax-expatxs-perl         - Perl SAX 2 XS extension to Expat parser   
+p   libxml-sax-expatxs-perl:i386    - Perl SAX 2 XS extension to Expat parser   
+p   libxml-sax-machines-perl        - Perl module collection for managing SAX pr
+i A libxml-sax-perl                 - Perl-Modul für das Benutzen/Erstellen von 
+p   libxml-sax-writer-perl          - Perl module for a SAX2 XML writer         
+p   libxml-saxon-xslt2-perl         - process XSLT 2.0 using Saxon 9.x          
+p   libxml-security-c-dev           - C++ library for XML Digital Signatures (de
+p   libxml-security-c-dev:i386      - C++ library for XML Digital Signatures (de
+p   libxml-security-c16             - C++ library for XML Digital Signatures (ru
+p   libxml-security-c16:i386        - C++ library for XML Digital Signatures (ru
+p   libxml-security-java            - Apache Santuario                          
+p   libxml-security-java-doc        - Documentation for Apache Santuario        
+p   libxml-semanticdiff-perl        - Perl extension for comparing XML documents
+i A libxml-simple-perl              - Perl-Modul für das Lesen und Schreiben von
+p   libxml-simple-ruby              - Transitional package for ruby-xml-simple  
+p   libxml-simpleobject-enhanced-pe - Perl module which enhances libxml-simpleob
+p   libxml-simpleobject-libxml-perl - Simple oo representation of an XML::LibXML
+p   libxml-simpleobject-perl        - Objektorientierte Perl-Schnittstelle zum v
+p   libxml-smart-perl               - Perl module for access to parsed XML trees
+p   libxml-stream-perl              - Modul für die Manipulation von XML-Streami
+p   libxml-tidy-perl                - module for tidy indenting of XML documents
+p   libxml-tmx-perl                 - Perl extensions for managing TMX files    
+p   libxml-tokeparser-perl          - Simplified interface to XML::Parser       
+p   libxml-treebuilder-perl         - XML parser providing XML::Elements DOM sim
+p   libxml-treepp-perl              - XML::TreePP -- Pure Perl implementation fo
+i A libxml-twig-perl                - Perl-Modul für Baum-artigen Zugriff auf XM
+p   libxml-um-perl                  - Perl module for converting UTF-8 strings  
+p   libxml-validate-perl            - xml validator factory                     
+p   libxml-validator-schema-perl    - validate XML against a subset of W3C XML S
+p   libxml-writer-perl              - Perlmodul für das Schreiben von XML Dokume
+p   libxml-writer-simple-perl       - simple API to create XML files            
+p   libxml-writer-string-perl       - Capture output from XML::Writer           
+p   libxml-xerces-perl              - Perl API to Xerces XML parser             
+p   libxml-xerces-perl:i386         - Perl API to Xerces XML parser             
+p   libxml-xpath-perl               - Perl-Modul für XPath-Verarbeitung         
+i A libxml-xpathengine-perl         - Wiederverwendbare XPath-Engine für DOM-ähn
+p   libxml-xql-perl                 - Perl module for querying XML tree structur
+p   libxml-xslt-perl                - Perl module for processing XSLT           
+p   libxml-xupdate-libxml-perl      - Perl module that implements XUpdate modifi
+i A libxml2                         - GNOME XML-Bibliothek                      
+i A libxml2:i386                    - GNOME XML-Bibliothek                      
+p   libxml2-dbg                     - Debugging symbols for the GNOME XML librar
+p   libxml2-dbg:i386                - Debugging symbols for the GNOME XML librar
+p   libxml2-dev                     - Entwicklungsdateien für die GNOME XML-Bibl
+p   libxml2-dev:i386                - Entwicklungsdateien für die GNOME XML-Bibl
+p   libxml2-doc                     - Documentation for the GNOME XML library   
+v   libxml2-doc:i386                -                                           
+i A libxml2-utils                   - XML-Hilfsprogramme                        
+p   libxml2-utils:i386              - XML-Hilfsprogramme                        
+p   libxml2-utils-dbg               - XML utilities (debug extension)           
+p   libxml2-utils-dbg:i386          - XML utilities (debug extension)           
+p   libxmlada-doc                   - XML/Ada, a full XML suite for Ada programm
+p   libxmlada4.1                    - XML/Ada, a full XML suite for Ada programm
+p   libxmlada4.1:i386               - XML/Ada, a full XML suite for Ada programm
+p   libxmlada4.1-dbg                - XML/Ada, a full XML suite for Ada programm
+p   libxmlada4.1-dbg:i386           - XML/Ada, a full XML suite for Ada programm
+p   libxmlada4.1-dev                - XML/Ada, a full XML suite for Ada programm
+p   libxmlada4.1-dev:i386           - XML/Ada, a full XML suite for Ada programm
+p   libxmlbeans-java                - Java library for accessing XML by binding 
+p   libxmlbeans-maven-plugin-java   - Maven XMLBeans Plugin                     
+p   libxmlbeans-maven-plugin-java-d - Documentation for Maven XMLBeans Plugin   
+p   libxmlezout-dbg                 - Easy-to-use library for emitting XML from 
+p   libxmlezout-dbg:i386            - Easy-to-use library for emitting XML from 
+p   libxmlezout1                    - Easy-to-use library for emitting XML from 
+p   libxmlezout1:i386               - Easy-to-use library for emitting XML from 
+p   libxmlezout2-dev                - Easy-to-use library for emitting XML from 
+p   libxmlezout2-dev:i386           - Easy-to-use library for emitting XML from 
+p   libxmlgraphics-commons-java     - reusable components used by Batik and FOP 
+p   libxmlm-ocaml-dev               - OCaml xml manipulation module             
+p   libxmlm-ocaml-dev:i386          - OCaml xml manipulation module             
+v   libxmlm-ocaml-dev-5zx71:i386    -                                           
+v   libxmlm-ocaml-dev-iu033         -                                           
+p   libxmlplaylist-ocaml-dev        - Playlist parser for various xml formats   
+p   libxmlplaylist-ocaml-dev:i386   - Playlist parser for various xml formats   
+v   libxmlplaylist-ocaml-dev-ijgw8: -                                           
+v   libxmlplaylist-ocaml-dev-yukj2  -                                           
+v   libxmlrpc-c++-dev               -                                           
+v   libxmlrpc-c++-dev:i386          -                                           
+p   libxmlrpc-c++4                  - lightweight RPC library based on XML and H
+p   libxmlrpc-c++4:i386             - lightweight RPC library based on XML and H
+p   libxmlrpc-c++4-dev              - lightweight RPC library based on XML and H
+p   libxmlrpc-c++4-dev:i386         - lightweight RPC library based on XML and H
+v   libxmlrpc-c-dev                 -                                           
+v   libxmlrpc-c-dev:i386            -                                           
+p   libxmlrpc-c3-dev                - lightweight RPC library based on XML and H
+v   libxmlrpc-c3-dev:i386           -                                           
+p   libxmlrpc-core-c3               - lightweight RPC library based on XML and H
+p   libxmlrpc-core-c3:i386          - lightweight RPC library based on XML and H
+p   libxmlrpc-core-c3-dev           - lightweight RPC library based on XML and H
+p   libxmlrpc-core-c3-dev:i386      - lightweight RPC library based on XML and H
+p   libxmlrpc-epi-dev               - Entwicklungsdateien für libxmlrpc-epi0, ei
+p   libxmlrpc-epi-dev:i386          - Entwicklungsdateien für libxmlrpc-epi0, ei
+p   libxmlrpc-epi0                  - XML-RPC request serialisation/deserialisat
+p   libxmlrpc-epi0:i386             - XML-RPC request serialisation/deserialisat
+p   libxmlrpc-epi0-dbg              - Debug symbols for libxmlrpc-epi0, a XML-RP
+p   libxmlrpc-epi0-dbg:i386         - Debug symbols for libxmlrpc-epi0, a XML-RP
+p   libxmlrpc-light-ocaml-dev       - XmlRpc-Light ist eine in OCaml geschrieben
+p   libxmlrpc-light-ocaml-dev:i386  - XmlRpc-Light ist eine in OCaml geschrieben
+v   libxmlrpc-light-ocaml-dev-45ob2 -                                           
+v   libxmlrpc-light-ocaml-dev-j5a91 -                                           
+v   libxmlrpc-ruby                  -                                           
+v   libxmlrpc-ruby1.8               -                                           
+v   libxmlrpc-ruby1.8:i386          -                                           
+p   libxmlrpc3-client-java          - XML-RPC implementation in Java (client sid
+p   libxmlrpc3-common-java          - XML-RPC implementation in Java            
+p   libxmlrpc3-java-doc             - XML-RPC implementation in Java (API docume
+p   libxmlrpc3-server-java          - XML-RPC implementation in Java (server sid
+p   libxmlsec1                      - XML security library                      
+p   libxmlsec1:i386                 - XML security library                      
+p   libxmlsec1-dev                  - Development files for the XML security lib
+p   libxmlsec1-dev:i386             - Development files for the XML security lib
+p   libxmlsec1-gcrypt               - Gcrypt engine for the XML security library
+p   libxmlsec1-gcrypt:i386          - Gcrypt engine for the XML security library
+p   libxmlsec1-gnutls               - Gnutls Maschine für die XML-Sicherheitsbib
+p   libxmlsec1-gnutls:i386          - Gnutls Maschine für die XML-Sicherheitsbib
+p   libxmlsec1-nss                  - Nss engine for the XML security library   
+p   libxmlsec1-nss:i386             - Nss engine for the XML security library   
+p   libxmlsec1-openssl              - Openssl engine for the XML security librar
+p   libxmlsec1-openssl:i386         - Openssl engine for the XML security librar
+p   libxmltok1                      - XML Parser Toolkit, runtime libraries     
+p   libxmltok1:i386                 - XML Parser Toolkit, runtime libraries     
+p   libxmltok1-dev                  - XML Parser Toolkit, Entwicklerbibliotheken
+p   libxmltok1-dev:i386             - XML Parser Toolkit, Entwicklerbibliotheken
+p   libxmltooling-dev               - C++ XML parsing library with encryption su
+p   libxmltooling-dev:i386          - C++ XML parsing library with encryption su
+p   libxmltooling-doc               - C++ XML parsing library with encryption su
+p   libxmltooling5                  - C++ XML parsing library with encryption su
+p   libxmltooling5:i386             - C++ XML parsing library with encryption su
+p   libxmltv-perl                   - Perl-Bibliotheken für das Dateiformat XMLT
+p   libxmlunit-java                 - Unit testing for XML documents            
+p   libxmlunit-java-doc             - Documentation for XMLUnit                 
+i A python-libxml2                  - Python-Anbindungen für die GNOME-XML-Bibli
+p   python-libxml2:i386             - Python-Anbindungen für die GNOME-XML-Bibli
+p   python-libxml2-dbg              - Python bindings for the GNOME XML library 
+p   python-libxml2-dbg:i386         - Python bindings for the GNOME XML library 
+v   python2.6-libxml2               -                                           
+v   python2.6-libxml2:i386          -                                           
+v   python2.6-libxml2-dbg           -                                           
+v   python2.6-libxml2-dbg:i386      -                                           
+v   python2.7-libxml2               -                                           
+v   python2.7-libxml2:i386          -                                           
+v   python2.7-libxml2-dbg           -                                           
+v   python2.7-libxml2-dbg:i386      -                                           
+p   ruby-libxml                     - Ruby Bindings for LibXML2                 
+p   ruby-libxml:i386                - Ruby Bindings for LibXML2                 
+fohl@FOHL-PC02:Wonder_Waas$ sudo aptitude install libxml++2.6-dev
+Die folgenden NEUEN Pakete werden zusätzlich installiert:
+  libglib2.0-dev{a} libglibmm-2.4-dev{a} libsigc++-2.0-dev{a} 
+  libxml++2.6-dev libxml2-dev{a} 
+0 Pakete aktualisiert, 5 zusätzlich installiert, 0 werden entfernt und 335 nicht aktualisiert.
+3.953 kB an Archiven müssen heruntergeladen werden. Nach dem Entpacken werden 19,2 MB zusätzlich belegt sein.
+Möchten Sie fortsetzen? [Y/n/?] 
+Holen: 1 http://ftp.de.debian.org/debian/ testing/main libglib2.0-dev amd64 2.33.12+really2.32.4-5 [2.051 kB]
+Holen: 2 http://ftp.de.debian.org/debian/ testing/main libsigc++-2.0-dev amd64 2.2.10-0.2 [114 kB]
+Holen: 3 http://ftp.de.debian.org/debian/ testing/main libglibmm-2.4-dev amd64 2.32.1-1 [776 kB]
+Holen: 4 http://ftp.de.debian.org/debian/ testing/main libxml2-dev amd64 2.8.0+dfsg1-7+nmu1 [901 kB]
+Holen: 5 http://ftp.de.debian.org/debian/ testing/main libxml++2.6-dev amd64 2.34.2-1 [112 kB]
+3.953 kB wurden in 5 s heruntergeladen (768 kB/s)
+Vormals nicht ausgewähltes Paket libglib2.0-dev wird gewählt.
+(Lese Datenbank ... 424607 Dateien und Verzeichnisse sind derzeit installiert.)
+Entpacken von libglib2.0-dev (aus .../libglib2.0-dev_2.33.12+really2.32.4-5_amd64.deb) ...
+Vormals nicht ausgewähltes Paket libsigc++-2.0-dev:amd64 wird gewählt.
+Entpacken von libsigc++-2.0-dev:amd64 (aus .../libsigc++-2.0-dev_2.2.10-0.2_amd64.deb) ...
+Vormals nicht ausgewähltes Paket libglibmm-2.4-dev:amd64 wird gewählt.
+Entpacken von libglibmm-2.4-dev:amd64 (aus .../libglibmm-2.4-dev_2.32.1-1_amd64.deb) ...
+Vormals nicht ausgewähltes Paket libxml2-dev:amd64 wird gewählt.
+Entpacken von libxml2-dev:amd64 (aus .../libxml2-dev_2.8.0+dfsg1-7+nmu1_amd64.deb) ...
+Vormals nicht ausgewähltes Paket libxml++2.6-dev wird gewählt.
+Entpacken von libxml++2.6-dev (aus .../libxml++2.6-dev_2.34.2-1_amd64.deb) ...
+Trigger für man-db werden verarbeitet ...
+Trigger für libglib2.0-0:i386 werden verarbeitet ...
+Trigger für libglib2.0-0:amd64 werden verarbeitet ...
+libglib2.0-dev (2.33.12+really2.32.4-5) wird eingerichtet ...
+libsigc++-2.0-dev:amd64 (2.2.10-0.2) wird eingerichtet ...
+libglibmm-2.4-dev:amd64 (2.32.1-1) wird eingerichtet ...
+libxml2-dev:amd64 (2.8.0+dfsg1-7+nmu1) wird eingerichtet ...
+libxml++2.6-dev (2.34.2-1) wird eingerichtet ...
+                                    
+fohl@FOHL-PC02:Wonder_Waas$ cd wonder3.1.9
+fohl@FOHL-PC02:wonder3.1.9$ scons wfs=1
+scons: Reading SConscript files ...
+
+========== WONDER 3.1.9 ========== 
+
+scons: warning: The Options class is deprecated; use the Variables class instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 148, in <module>
+
+scons: warning: The BoolOption() function is deprecated; use the BoolVariable() function instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 150, in <module>
+
+scons: warning: The EnumOption() function is deprecated; use the EnumVariable() function instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 163, in <module>
+
+scons: warning: The PathOption() function is deprecated; use the PathVariable() function instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 164, in <module>
+
+scons: warning: BuildDir() and the build_dir keyword have been deprecated;
+	use VariantDir() and the variant_dir keyword instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 176, in <module>
+pkg-config installed? (cached) yes
+libxml++-2.6 installed? yes
+liblo installed? (cached) yes
+Package glu was not found in the pkg-config search path.
+Perhaps you should add the directory containing `glu.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'glu' found
+OSError: 'pkg-config --cflags --libs glu' exited 1:
+  File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 283:
+    env.ParseConfig('pkg-config --cflags --libs glu')
+  File "/usr/lib/scons/SCons/Environment.py", line 1551:
+    return function(self, self.backtick(command))
+  File "/usr/lib/scons/SCons/Environment.py", line 593:
+    raise OSError("'%s' exited %d" % (command, status))
+fohl@FOHL-PC02:wonder3.1.9$ aptitude search glu
+p   celestia-glut                   - Weltraumsimulation in Echtzeit (GLUT-Oberf
+p   celestia-glut:i386              - Weltraumsimulation in Echtzeit (GLUT-Oberf
+p   cluster-glue                    - Reusable cluster components for Linux HA  
+p   cluster-glue:i386               - Reusable cluster components for Linux HA  
+p   cluster-glue-dev                - Development files for the cluster glue com
+p   cluster-glue-dev:i386           - Development files for the cluster glue com
+p   freebsd-glue                    - Emulate a FreeBSD build environment       
+i A freeglut3                       - OpenGL Utility Toolkit - OpenGL-Werkzeugsa
+p   freeglut3:i386                  - OpenGL Utility Toolkit - OpenGL-Werkzeugsa
+p   freeglut3-dbg                   - OpenGL-Hilfsprogramme/Werkzeugsammlung - D
+p   freeglut3-dbg:i386              - OpenGL-Hilfsprogramme/Werkzeugsammlung - D
+p   freeglut3-dev                   - OpenGL Utility Toolkit - OpenGL-Werkzeugsa
+p   freeglut3-dev:i386              - OpenGL Utility Toolkit - OpenGL-Werkzeugsa
+p   gambas3-gb-opengl-glu           - Gambas opengl-glu component               
+p   gambas3-gb-opengl-glu:i386      - Gambas opengl-glu component               
+p   gimp-gluas                      - Lua environment plug-in for GIMP          
+p   gimp-gluas:i386                 - Lua environment plug-in for GIMP          
+p   glue-schema                     - LDAP schema files for the GLUE Schema     
+p   glue-sprite                     - Simple command line tool to generate CSS s
+p   glurp                           - GTK+-Oberfläche für den Music Player Daemo
+p   glurp:i386                      - GTK+-Oberfläche für den Music Player Daemo
+p   glusterfs-client                - clustered file-system (client package)    
+p   glusterfs-client:i386           - clustered file-system (client package)    
+p   glusterfs-common                - GlusterFS common libraries and translator 
+p   glusterfs-common:i386           - GlusterFS common libraries and translator 
+p   glusterfs-dbg                   - GlusterFS debugging symbols               
+p   glusterfs-dbg:i386              - GlusterFS debugging symbols               
+p   glusterfs-examples              - example files for the glusterfs server and
+p   glusterfs-server                - clustered file-system (server package)    
+p   glusterfs-server:i386           - clustered file-system (server package)    
+p   libcluster-glue                 - Reusable cluster libraries (transitional p
+p   libcluster-glue-dev             - Reusable cluster components for Linux HA (
+p   libghc-glut-dev                 - Haskell GLUT binding for GHC              
+p   libghc-glut-dev:i386            - Haskell GLUT binding for GHC              
+v   libghc-glut-dev-2.1.2.2-6e347   -                                           
+v   libghc-glut-dev-2.1.2.2-96451:i -                                           
+p   libghc-glut-doc                 - Haskell GLUT binding for GHC; documentatio
+p   libghc-glut-prof                - Haskell GLUT binding for GHC; profiling li
+p   libghc-glut-prof:i386           - Haskell GLUT binding for GHC; profiling li
+v   libghc-glut-prof-2.1.2.2-6e347  -                                           
+v   libghc-glut-prof-2.1.2.2-96451: -                                           
+p   libghc6-glut-dev                - Übergangspaket                            
+p   libghc6-glut-doc                - Übergangspaket                            
+p   libghc6-glut-prof               - Übergangspaket                            
+v   libglu-dev                      -                                           
+v   libglu-dev:i386                 -                                           
+v   libglu1                         -                                           
+v   libglu1:i386                    -                                           
+i A libglu1-mesa                    - OpenGL Utility Library (GLU) von Mesa     
+i A libglu1-mesa:i386               - OpenGL Utility Library (GLU) von Mesa     
+p   libglu1-mesa-dev                - OpenGL Utility Library (GLU) von Mesa -- E
+p   libglu1-mesa-dev:i386           - OpenGL Utility Library (GLU) von Mesa -- E
+p   libgluegen2-build-java          - Tool to automatically generate the Java an
+p   libgluegen2-doc                 - Tool to automatically generate the Java an
+p   libgluegen2-jni                 - Werkzeug zur automatischen Generierung des
+p   libgluegen2-jni:i386            - Werkzeug zur automatischen Generierung des
+p   libgluegen2-rt-java             - Tool to automatically generate the Java an
+p   libglui-dev                     - A GLUT-based C++ user interface library   
+p   libglui-dev:i386                - A GLUT-based C++ user interface library   
+p   libglui2c2                      - GLUI, a C++ GLUT based GUI library - Runti
+p   libglui2c2:i386                 - GLUI, a C++ GLUT based GUI library - Runti
+p   libgssglue-dev                  - header files and docs for libgssglue      
+p   libgssglue-dev:i386             - header files and docs for libgssglue      
+i A libgssglue1                     - Mechanismenwechsel für die GSS-Programmier
+p   libgssglue1:i386                - Mechanismenwechsel für die GSS-Programmier
+v   libhugs-glut                    -                                           
+v   libhugs-glut:i386               -                                           
+p   libhugs-glut-bundled            - A binding for the OpenGL Utility Toolkit  
+p   libhugs-glut-bundled:i386       - A binding for the OpenGL Utility Toolkit  
+i A libkwinglutils1                 - library with OpenGL utilities for the KDE 
+p   libkwinglutils1:i386            - library with OpenGL utilities for the KDE 
+p   libmgl-glut5                    - library for scientific graphs. (GLUT runti
+p   libmgl-glut5:i386               - library for scientific graphs. (GLUT runti
+p   libmodglue1                     - C++ library for handling of multiple co-pr
+p   libmodglue1:i386                - C++ library for handling of multiple co-pr
+p   libmodglue1-dev                 - development files for a C++ library for ha
+p   libnet-inet6glue-perl           - glue module to make perl modules IPv6 read
+p   libnet-sslglue-perl             - add/extend SSL support for common perl mod
+p   libtaoframework-freeglut-cil-de - Tao CLI binding for freeglut - development
+p   libtaoframework-freeglut2.4-cil - Tao CLI binding for freeglut              
+p   mgltools-mglutil                - Molecular Graphics Laboratory utility coll
+p   python-configglue               - Glues together optparse.OptionParser and C
+p   python-gluon                    - High-level Python web development framewor
+p   udisks-glue                     - simple automount daemon with support for u
+p   udisks-glue:i386                - simple automount daemon with support for u
+v   xlibmesa-glu-dev                -                                           
+v   xlibmesa-glu-dev:i386           -                                           
+fohl@FOHL-PC02:wonder3.1.9$ sudo aptitude install libglu1-mesa-dev
+Die folgenden NEUEN Pakete werden zusätzlich installiert:
+  libgl1-mesa-dev{a} libglu1-mesa-dev libpthread-stubs0{a} 
+  libpthread-stubs0-dev{a} libx11-dev{a} libx11-doc{a} libxau-dev{a} 
+  libxcb1-dev{a} libxdmcp-dev{a} libxext-dev{a} mesa-common-dev{a} 
+  x11proto-core-dev{a} x11proto-input-dev{a} x11proto-kb-dev{a} 
+  x11proto-xext-dev{a} xorg-sgml-doctools{a} xtrans-dev{a} 
+0 Pakete aktualisiert, 17 zusätzlich installiert, 0 werden entfernt und 335 nicht aktualisiert.
+6.668 kB an Archiven müssen heruntergeladen werden. Nach dem Entpacken werden 22,0 MB zusätzlich belegt sein.
+Möchten Sie fortsetzen? [Y/n/?] 
+Holen: 1 http://ftp.de.debian.org/debian/ testing/main xorg-sgml-doctools all 1:1.10-1 [24,1 kB]
+Holen: 2 http://ftp.de.debian.org/debian/ testing/main x11proto-core-dev all 7.0.23-1 [774 kB]
+Holen: 3 http://ftp.de.debian.org/debian/ testing/main libxau-dev amd64 1:1.0.7-1 [21,7 kB]
+Holen: 4 http://ftp.de.debian.org/debian/ testing/main libxdmcp-dev amd64 1:1.1.1-1 [42,3 kB]
+Holen: 5 http://ftp.de.debian.org/debian/ testing/main x11proto-input-dev all 2.2-1 [172 kB]
+Holen: 6 http://ftp.de.debian.org/debian/ testing/main x11proto-kb-dev all 1.0.6-2 [269 kB]
+Holen: 7 http://ftp.de.debian.org/debian/ testing/main xtrans-dev all 1.2.7-1 [112 kB]
+Holen: 8 http://ftp.de.debian.org/debian/ testing/main libpthread-stubs0 amd64 0.3-3 [3.228 B]
+Holen: 9 http://ftp.de.debian.org/debian/ testing/main libpthread-stubs0-dev amd64 0.3-3 [3.998 B]
+Holen: 10 http://ftp.de.debian.org/debian/ testing/main libxcb1-dev amd64 1.8.1-2 [88,1 kB]
+Holen: 11 http://ftp.de.debian.org/debian/ testing/main libx11-dev amd64 2:1.5.0-1 [1.037 kB]
+Holen: 12 http://ftp.de.debian.org/debian/ testing/main mesa-common-dev amd64 8.0.5-4 [277 kB]
+Holen: 13 http://ftp.de.debian.org/debian/ testing/main x11proto-xext-dev all 7.2.1-1 [273 kB]
+Holen: 14 http://ftp.de.debian.org/debian/ testing/main libxext-dev amd64 2:1.3.1-2 [115 kB]
+Holen: 15 http://ftp.de.debian.org/debian/ testing/main libgl1-mesa-dev amd64 8.0.5-4 [32,6 kB]
+Holen: 16 http://ftp.de.debian.org/debian/ testing/main libglu1-mesa-dev amd64 8.0.5-4 [226 kB]
+Holen: 17 http://ftp.de.debian.org/debian/ testing/main libx11-doc all 2:1.5.0-1 [3.197 kB]
+6.668 kB wurden in 11 s heruntergeladen (595 kB/s)
+Vormals nicht ausgewähltes Paket xorg-sgml-doctools wird gewählt.
+(Lese Datenbank ... 425472 Dateien und Verzeichnisse sind derzeit installiert.)
+Entpacken von xorg-sgml-doctools (aus .../xorg-sgml-doctools_1%3a1.10-1_all.deb) ...
+Vormals nicht ausgewähltes Paket x11proto-core-dev wird gewählt.
+Entpacken von x11proto-core-dev (aus .../x11proto-core-dev_7.0.23-1_all.deb) ...
+Vormals nicht ausgewähltes Paket libxau-dev:amd64 wird gewählt.
+Entpacken von libxau-dev:amd64 (aus .../libxau-dev_1%3a1.0.7-1_amd64.deb) ...
+Vormals nicht ausgewähltes Paket libxdmcp-dev:amd64 wird gewählt.
+Entpacken von libxdmcp-dev:amd64 (aus .../libxdmcp-dev_1%3a1.1.1-1_amd64.deb) ...
+Vormals nicht ausgewähltes Paket x11proto-input-dev wird gewählt.
+Entpacken von x11proto-input-dev (aus .../x11proto-input-dev_2.2-1_all.deb) ...
+Vormals nicht ausgewähltes Paket x11proto-kb-dev wird gewählt.
+Entpacken von x11proto-kb-dev (aus .../x11proto-kb-dev_1.0.6-2_all.deb) ...
+Vormals nicht ausgewähltes Paket xtrans-dev wird gewählt.
+Entpacken von xtrans-dev (aus .../xtrans-dev_1.2.7-1_all.deb) ...
+Vormals nicht ausgewähltes Paket libpthread-stubs0:amd64 wird gewählt.
+Entpacken von libpthread-stubs0:amd64 (aus .../libpthread-stubs0_0.3-3_amd64.deb) ...
+Vormals nicht ausgewähltes Paket libpthread-stubs0-dev:amd64 wird gewählt.
+Entpacken von libpthread-stubs0-dev:amd64 (aus .../libpthread-stubs0-dev_0.3-3_amd64.deb) ...
+Vormals nicht ausgewähltes Paket libxcb1-dev:amd64 wird gewählt.
+Entpacken von libxcb1-dev:amd64 (aus .../libxcb1-dev_1.8.1-2_amd64.deb) ...
+Vormals nicht ausgewähltes Paket libx11-dev:amd64 wird gewählt.
+Entpacken von libx11-dev:amd64 (aus .../libx11-dev_2%3a1.5.0-1_amd64.deb) ...
+Vormals nicht ausgewähltes Paket mesa-common-dev wird gewählt.
+Entpacken von mesa-common-dev (aus .../mesa-common-dev_8.0.5-4_amd64.deb) ...
+Vormals nicht ausgewähltes Paket x11proto-xext-dev wird gewählt.
+Entpacken von x11proto-xext-dev (aus .../x11proto-xext-dev_7.2.1-1_all.deb) ...
+Vormals nicht ausgewähltes Paket libxext-dev:amd64 wird gewählt.
+Entpacken von libxext-dev:amd64 (aus .../libxext-dev_2%3a1.3.1-2_amd64.deb) ...
+Vormals nicht ausgewähltes Paket libgl1-mesa-dev wird gewählt.
+Entpacken von libgl1-mesa-dev (aus .../libgl1-mesa-dev_8.0.5-4_amd64.deb) ...
+Vormals nicht ausgewähltes Paket libglu1-mesa-dev wird gewählt.
+Entpacken von libglu1-mesa-dev (aus .../libglu1-mesa-dev_8.0.5-4_amd64.deb) ...
+Vormals nicht ausgewähltes Paket libx11-doc wird gewählt.
+Entpacken von libx11-doc (aus .../libx11-doc_2%3a1.5.0-1_all.deb) ...
+Trigger für man-db werden verarbeitet ...
+Trigger für glx-alternative-mesa werden verarbeitet ...
+update-alternatives: /usr/lib/mesa-diverted wird verwendet, um /usr/lib/mesa-diverted/libGL.so-master (libGL.so-master) im Auto-Modus bereitzustellen
+xorg-sgml-doctools (1:1.10-1) wird eingerichtet ...
+x11proto-core-dev (7.0.23-1) wird eingerichtet ...
+libxau-dev:amd64 (1:1.0.7-1) wird eingerichtet ...
+libxdmcp-dev:amd64 (1:1.1.1-1) wird eingerichtet ...
+x11proto-input-dev (2.2-1) wird eingerichtet ...
+x11proto-kb-dev (1.0.6-2) wird eingerichtet ...
+xtrans-dev (1.2.7-1) wird eingerichtet ...
+libpthread-stubs0:amd64 (0.3-3) wird eingerichtet ...
+libpthread-stubs0-dev:amd64 (0.3-3) wird eingerichtet ...
+libxcb1-dev:amd64 (1.8.1-2) wird eingerichtet ...
+libx11-dev:amd64 (2:1.5.0-1) wird eingerichtet ...
+mesa-common-dev (8.0.5-4) wird eingerichtet ...
+x11proto-xext-dev (7.2.1-1) wird eingerichtet ...
+libxext-dev:amd64 (2:1.3.1-2) wird eingerichtet ...
+libgl1-mesa-dev (8.0.5-4) wird eingerichtet ...
+libglu1-mesa-dev (8.0.5-4) wird eingerichtet ...
+libx11-doc (2:1.5.0-1) wird eingerichtet ...
+                                    
+fohl@FOHL-PC02:wonder3.1.9$ scons wfs=1
+scons: Reading SConscript files ...
+
+========== WONDER 3.1.9 ========== 
+
+scons: warning: The Options class is deprecated; use the Variables class instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 148, in <module>
+
+scons: warning: The BoolOption() function is deprecated; use the BoolVariable() function instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 150, in <module>
+
+scons: warning: The EnumOption() function is deprecated; use the EnumVariable() function instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 163, in <module>
+
+scons: warning: The PathOption() function is deprecated; use the PathVariable() function instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 164, in <module>
+
+scons: warning: BuildDir() and the build_dir keyword have been deprecated;
+	use VariantDir() and the variant_dir keyword instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 176, in <module>
+pkg-config installed? (cached) yes
+libxml++-2.6 installed? yes
+liblo installed? (cached) yes
+svn: ».« ist keine Arbeitskopie
+Wonder library	[Yes]
+
+scons: warning: The env.Copy() method is deprecated; use the env.Clone() method instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 364, in <module>
+jackpp library	[Yes]
+cwonder		[Yes]
+twonder		[Yes]
+fwonder		[No]
+xwonder		[Yes]
+
+scons: warning: Could not detect qt, using empty QTDIR
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/tools/qt4tool/qt4.py", line 208, in _detect
+
+scons: warning: Could not detect qt, using empty QTDIR
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/tools/qt4tool/qt4.py", line 208, in _detect
+AttributeError: 'NoneType' object has no attribute 'endswith':
+  File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 496:
+    xwonderenv.Tool('qt4', toolpath=['./tools/qt4tool'])
+  File "/usr/lib/scons/SCons/Environment.py", line 1783:
+    tool(self)
+  File "/usr/lib/scons/SCons/Tool/__init__.py", line 180:
+    self.generate(env, *args, **kw)
+  File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/tools/qt4tool/qt4.py", line 248:
+    QT4_MOC = locateQt4Command(env,'moc', env['QTDIR']),
+  File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/tools/qt4tool/qt4.py", line 217:
+    fullpath1 = os.path.join(qtdir,'bin',command +'-qt4')
+  File "/usr/lib/python2.7/posixpath.py", line 77:
+    elif path == '' or path.endswith('/'):
+fohl@FOHL-PC02:wonder3.1.9$ aptitude search qt 
+p   appmenu-qt                      - application menu for Qt                   
+p   appmenu-qt:i386                 - application menu for Qt                   
+p   autokey-qt                      - desktop automation utility - KDE version  
+p   avidemux-qt                     - Free video editor (QT version).           
+p   avidemux-qt:i386                - Free video editor (QT version).           
+p   bacula-console-qt               - Netzwerkdienst für Dateisicherungen - Bacu
+p   bacula-console-qt:i386          - Netzwerkdienst für Dateisicherungen - Bacu
+p   bacula-console-qt-dbg           - network backup service - Bacula Administra
+p   bacula-console-qt-dbg:i386      - network backup service - Bacula Administra
+p   cmake-qt-gui                    - Qt4 based user interface for CMake (cmake-
+p   cmake-qt-gui:i386               - Qt4 based user interface for CMake (cmake-
+p   dc-qt                           - Grafische Benutzeroberfläche für das dc-Pr
+p   dc-qt:i386                      - Grafische Benutzeroberfläche für das dc-Pr
+p   eiskaltdcpp-qt                  - EiskaltDC++ GUI on Qt                     
+p   eiskaltdcpp-qt:i386             - EiskaltDC++ GUI on Qt                     
+p   eiskaltdcpp-qt-data             - data files for EiskaltDC++ Qt             
+p   eiskaltdcpp-qt-dbg              - EiskaltDC++ GUI on Qt (debug symbols)     
+p   eiskaltdcpp-qt-dbg:i386         - EiskaltDC++ GUI on Qt (debug symbols)     
+p   fcitx-frontend-qt4              - Flexible Input Method Framework - Qt4 IM M
+p   fcitx-frontend-qt4:i386         - Flexible Input Method Framework - Qt4 IM M
+p   fcitx-libs-qt                   - Flexible Input Method Framework - D-Bus cl
+p   fcitx-libs-qt:i386              - Flexible Input Method Framework - D-Bus cl
+p   ffado-mixer-qt4                 - D-Bus-Mischprogramme für FFADO (QT4)      
+p   fqterm                          - Mailbox-Client, geschrieben in QT4        
+p   fqterm:i386                     - Mailbox-Client, geschrieben in QT4        
+p   fraqtive                        - Zeichnet Mandelbrot- und Julia-Fraktale   
+p   fraqtive:i386                   - Zeichnet Mandelbrot- und Julia-Fraktale   
+p   fraqtive-dbg                    - draws Mandelbrot and Julia fractals (debug
+p   fraqtive-dbg:i386               - draws Mandelbrot and Julia fractals (debug
+i   freqtweak                       - Realtime audio frequency spectral manipula
+p   freqtweak:i386                  - Realtime audio frequency spectral manipula
+p   gambas3-gb-qt4                  - Gambas Qt GUI component                   
+p   gambas3-gb-qt4:i386             - Gambas Qt GUI component                   
+p   gambas3-gb-qt4-ext              - Gambas extended Qt GUI component          
+p   gambas3-gb-qt4-ext:i386         - Gambas extended Qt GUI component          
+p   gambas3-gb-qt4-opengl           - OpenGL with QT toolkit Gambas component   
+p   gambas3-gb-qt4-opengl:i386      - OpenGL with QT toolkit Gambas component   
+p   gambas3-gb-qt4-webkit           - Gambas WebKit component                   
+p   gambas3-gb-qt4-webkit:i386      - Gambas WebKit component                   
+p   gcin-qt4-immodule               - Qt4 input method module with gcin as backe
+p   gcin-qt4-immodule:i386          - Qt4 input method module with gcin as backe
+p   gem-plugin-lqt                  - Graphics Environment for Multimedia - LQT 
+p   gem-plugin-lqt:i386             - Graphics Environment for Multimedia - LQT 
+p   gnuplot-qt                      - Command-line driven interactive plotting p
+p   gnuplot-qt:i386                 - Command-line driven interactive plotting p
+c   google-gadgets-qt               - Qt4 version of Google Gadgets             
+p   gtk2-engines-qtcurve            - Satz von Widget-Stilen für GTK2-Anwendunge
+p   gtk2-engines-qtcurve:i386       - Satz von Widget-Stilen für GTK2-Anwendunge
+p   hime-qt4-immodule               - Qt4 input method module with HIME as backe
+p   hime-qt4-immodule:i386          - Qt4 input method module with HIME as backe
+p   hotot-qt                        - lightweight microblogging client - QT wrap
+p   hotot-qt:i386                   - lightweight microblogging client - QT wrap
+p   ibus-qt4                        - qt-immodule for ibus (QT4)                
+p   ibus-qt4:i386                   - qt-immodule for ibus (QT4)                
+p   ipython-qtconsole               - enhanced interactive Python shell - Qt con
+p   ipython3-qtconsole              - enhanced interactive Python 3 shell - Qt c
+p   kde-style-qtcurve               - Widget-Stil QtCurve für KDE 4             
+p   kde-style-qtcurve:i386          - Widget-Stil QtCurve für KDE 4             
+p   kdevelop-pg-qt                  - LL(1) parser generator based on Qt        
+p   kdevelop-pg-qt:i386             - LL(1) parser generator based on Qt        
+p   kdiff3-qt                       - compares and merges 2 or 3 files or direct
+p   kdiff3-qt:i386                  - compares and merges 2 or 3 files or direct
+p   kid3-qt                         - Editor für Audio-Tags                     
+p   kid3-qt:i386                    - Editor für Audio-Tags                     
+p   kwin-style-qtcurve              - Fenstergestaltung QtCurve für KWin        
+p   kwin-style-qtcurve:i386         - Fenstergestaltung QtCurve für KWin        
+v   lazarus-ide-qt-0.9.30.4         -                                           
+v   lazarus-ide-qt-0.9.30.4:i386    -                                           
+p   lazarus-ide-qt4                 - IDE for Free Pascal - IDE build on top of 
+p   lazarus-ide-qt4:i386            - IDE for Free Pascal - IDE build on top of 
+p   lazarus-ide-qt4-0.9.30.4        - IDE for Free Pascal - Qt version          
+p   lazarus-ide-qt4-0.9.30.4:i386   - IDE for Free Pascal - Qt version          
+v   lcl-qt                          -                                           
+v   lcl-qt:i386                     -                                           
+p   lcl-qt4                         - Lazarus Components Library - Qt backend de
+p   lcl-qt4:i386                    - Lazarus Components Library - Qt backend de
+p   lcl-qt4-0.9.30.4                - Lazarus Components Library - Qt backend   
+p   lcl-qt4-0.9.30.4:i386           - Lazarus Components Library - Qt backend   
+p   libace-qtreactor-6.0.3          - ACE-GUI reactor integration for Qt        
+p   libace-qtreactor-6.0.3:i386     - ACE-GUI reactor integration for Qt        
+p   libace-qtreactor-dev            - ACE-GUI reactor integration for Qt - devel
+p   libace-qtreactor-dev:i386       - ACE-GUI reactor integration for Qt - devel
+p   libavahi-qt4-1                  - Avahi Qt 4 integration library            
+p   libavahi-qt4-1:i386             - Avahi Qt 4 integration library            
+p   libavahi-qt4-dev                - Development headers for the Avahi Qt 4 int
+p   libavahi-qt4-dev:i386           - Development headers for the Avahi Qt 4 int
+p   libbpp-qt-dev                   - Bio++ Qt Graphic classes library developme
+p   libbpp-qt-dev:i386              - Bio++ Qt Graphic classes library developme
+p   libbpp-qt1                      - Bio++ Qt Graphic classes library.         
+p   libbpp-qt1:i386                 - Bio++ Qt Graphic classes library.         
+p   libclam-qtmonitors-dev          - Entwicklungsdateien für die CLAM-Erweiteru
+p   libclam-qtmonitors-dev:i386     - Entwicklungsdateien für die CLAM-Erweiteru
+p   libclam-qtmonitors1.4           - libclam-qtmonitors CLAM extensions shared 
+p   libclam-qtmonitors1.4:i386      - libclam-qtmonitors CLAM extensions shared 
+p   libdbusmenu-qt-dev              - Qt-Implementierung des DBusMenu-Protokolls
+p   libdbusmenu-qt-dev:i386         - Qt-Implementierung des DBusMenu-Protokolls
+i A libdbusmenu-qt2                 - Qt-Implementierung des DBusMenu-Protokolls
+p   libdbusmenu-qt2:i386            - Qt-Implementierung des DBusMenu-Protokolls
+v   libggadget-qt-1.0-0-api         -                                           
+c   libggadget-qt-1.0-0b            - Google Gadgets Qt library                 
+p   libgnuradio-qtgui3.5.3.2        - gnuradio Qt graphical user interface funct
+p   libgnuradio-qtgui3.5.3.2:i386   - gnuradio Qt graphical user interface funct
+p   libgwengui-qt4-0                - GUI-Implementierung von Gwenhywfar für Qt 
+p   libgwengui-qt4-0:i386           - GUI-Implementierung von Gwenhywfar für Qt 
+p   libibus-qt-dev                  - qt-immodule for ibus (QT4)                
+p   libibus-qt-dev:i386             - qt-immodule for ibus (QT4)                
+p   libibus-qt1                     - qt-immodule for ibus (QT4)                
+p   libibus-qt1:i386                - qt-immodule for ibus (QT4)                
+p   libindicate-qt-dev              - Qt bindings for libindicate - development 
+p   libindicate-qt-dev:i386         - Qt bindings for libindicate - development 
+p   libindicate-qt1                 - Qt bindings for libindicate               
+p   libindicate-qt1:i386            - Qt bindings for libindicate               
+p   liblightdm-qt-2-0               - simple display manager (Qt library)       
+p   liblightdm-qt-2-0:i386          - simple display manager (Qt library)       
+p   liblightdm-qt-dev               - simple display manager (Qt development fil
+p   liblightdm-qt-dev:i386          - simple display manager (Qt development fil
+p   libmgl-qt5                      - Bibliothek für wissenschaftliche Graphen (
+p   libmgl-qt5:i386                 - Bibliothek für wissenschaftliche Graphen (
+i A libntrack-qt4-1                 - Qt-4-API für ntrack                       
+p   libntrack-qt4-1:i386            - Qt-4-API für ntrack                       
+p   libntrack-qt4-dev               - Development package for libntrack-qt4     
+p   libntrack-qt4-dev:i386          - Development package for libntrack-qt4     
+p   libpackagekit-qt2-2             - Library for accessing PackageKit using Qt4
+p   libpackagekit-qt2-2:i386        - Library for accessing PackageKit using Qt4
+p   libpackagekit-qt2-dev           - Library for accessing PackageKit using Qt4
+p   libpackagekit-qt2-dev:i386      - Library for accessing PackageKit using Qt4
+i A libpolkit-qt-1-1                - PolicyKit-qt-1-Bibliothek                 
+p   libpolkit-qt-1-1:i386           - PolicyKit-qt-1-Bibliothek                 
+p   libpolkit-qt-1-dev              - PolicyKit-qt-1-Entwicklungsdateien        
+p   libpolkit-qt-1-dev:i386         - PolicyKit-qt-1-Entwicklungsdateien        
+i A libpoppler-qt4-3                - Bibliothek für PDF-Darstellung (Qt-4-basie
+p   libpoppler-qt4-3:i386           - Bibliothek für PDF-Darstellung (Qt-4-basie
+p   libpoppler-qt4-dev              - PDF rendering library -- development files
+p   libpoppler-qt4-dev:i386         - PDF rendering library -- development files
+p   libprojectm-qt-dev              - ProjectM Qt4 (Entwicklungsdateien)        
+p   libprojectm-qt-dev:i386         - ProjectM Qt4 (Entwicklungsdateien)        
+p   libprojectm-qt1                 - Qt4-Anbindungen für projectM              
+p   libprojectm-qt1:i386            - Qt4-Anbindungen für projectM              
+p   libpythonqt2-dev                - Dynamic Python binding for the Qt framewor
+p   libpythonqt2-dev:i386           - Dynamic Python binding for the Qt framewor
+p   libpythonqt2.0                  - Dynamic Python binding for the Qt framewor
+p   libpythonqt2.0:i386             - Dynamic Python binding for the Qt framewor
+p   libqglviewer-qt4-2              - an OpenGL 3D viewer library based on Qt - 
+p   libqglviewer-qt4-2:i386         - an OpenGL 3D viewer library based on Qt - 
+p   libqglviewer-qt4-dev            - an OpenGL 3D viewer library based on Qt4 -
+p   libqglviewer-qt4-dev:i386       - an OpenGL 3D viewer library based on Qt4 -
+p   libqt4-assistant                - Übergangspaket für das Qt-4-Assistenzmodul
+p   libqt4-assistant:i386           - Übergangspaket für das Qt-4-Assistenzmodul
+p   libqt4-core                     - Übergangspaket der Qt-4-Kernbibliothek für
+p   libqt4-core:i386                - Übergangspaket der Qt-4-Kernbibliothek für
+p   libqt4-dbg                      - Debug-Symbole für die Qt-4-Bibliothek     
+p   libqt4-dbg:i386                 - Debug-Symbole für die Qt-4-Bibliothek     
+i A libqt4-dbus                     - Qt-4-Modul für das D-Bus-Protokoll        
+i A libqt4-dbus:i386                - Qt-4-Modul für das D-Bus-Protokoll        
+i A libqt4-declarative              - Qt-4-Modul Declarative                    
+p   libqt4-declarative:i386         - Qt-4-Modul Declarative                    
+p   libqt4-declarative-folderlistmo - QML-Erweiterung folderlistmodel für Qt 4  
+p   libqt4-declarative-folderlistmo - QML-Erweiterung folderlistmodel für Qt 4  
+p   libqt4-declarative-gestures     - QML-Erweiterung gestures für Qt 4         
+p   libqt4-declarative-gestures:i38 - QML-Erweiterung gestures für Qt 4         
+p   libqt4-declarative-particles    - QML-Erweiterung particles für Qt 4        
+p   libqt4-declarative-particles:i3 - QML-Erweiterung particles für Qt 4        
+p   libqt4-declarative-shaders      - QML-Erweiterung shaders für Qt 4          
+p   libqt4-declarative-shaders:i386 - QML-Erweiterung shaders für Qt 4          
+i A libqt4-designer                 - Qt-4-Modul Designer                       
+p   libqt4-designer:i386            - Qt-4-Modul Designer                       
+p   libqt4-designer-dbg             - Qt 4 designer library debugging symbols   
+p   libqt4-designer-dbg:i386        - Qt 4 designer library debugging symbols   
+p   libqt4-dev                      - Qt4-Entwicklungsdateien                   
+p   libqt4-dev:i386                 - Qt4-Entwicklungsdateien                   
+p   libqt4-dev-bin                  - Qt-4-Entwicklungsprogramme                
+p   libqt4-dev-bin:i386             - Qt-4-Entwicklungsprogramme                
+p   libqt4-gui                      - transitional package for Qt 4 GUI runtime 
+p   libqt4-gui:i386                 - transitional package for Qt 4 GUI runtime 
+i A libqt4-help                     - Qt-4-Hilfe-Modul                          
+p   libqt4-help:i386                - Qt-4-Hilfe-Modul                          
+i A libqt4-network                  - Qt-4-Netzwerkmodul                        
+i A libqt4-network:i386             - Qt-4-Netzwerkmodul                        
+i A libqt4-opengl                   - Qt-4-OpenGL-Modul                         
+p   libqt4-opengl:i386              - Qt-4-OpenGL-Modul                         
+p   libqt4-opengl-dev               - Qt-4-OpenGL-Bibliothek - Entwicklungsdatei
+p   libqt4-opengl-dev:i386          - Qt-4-OpenGL-Bibliothek - Entwicklungsdatei
+p   libqt4-phonon                   - Qt 4 Phonon module                        
+p   libqt4-phonon:i386              - Qt 4 Phonon module                        
+p   libqt4-private-dev              - Qt 4 private development files            
+p   libqt4-private-dev:i386         - Qt 4 private development files            
+i A libqt4-qt3support               - Qt-3-Kompatibilitätsbibliothek für Qt 4   
+p   libqt4-qt3support:i386          - Qt-3-Kompatibilitätsbibliothek für Qt 4   
+p   libqt4-qt3support-dbg           - Qt 3 compatibility library for Qt 4 debugg
+p   libqt4-qt3support-dbg:i386      - Qt 3 compatibility library for Qt 4 debugg
+p   libqt4-ruby                     - Übergangspaket für ruby-qt4               
+v   libqt4-ruby:i386                -                                           
+p   libqt4-ruby1.8                  - Übergangspaket für ruby-qt4               
+v   libqt4-ruby1.8:i386             -                                           
+i A libqt4-script                   - Skriptmodul für Qt 4                      
+p   libqt4-script:i386              - Skriptmodul für Qt 4                      
+p   libqt4-script-dbg               - Qt 4 script library debugging symbols     
+p   libqt4-script-dbg:i386          - Qt 4 script library debugging symbols     
+i A libqt4-scripttools              - Qt-4-Modul mit Skriptwerkzeugen           
+p   libqt4-scripttools:i386         - Qt-4-Modul mit Skriptwerkzeugen           
+i A libqt4-sql                      - Qt-4-SQL-Modul                            
+p   libqt4-sql:i386                 - Qt-4-SQL-Modul                            
+p   libqt4-sql-ibase                - Qt 4 InterBase/FireBird database driver   
+p   libqt4-sql-ibase:i386           - Qt 4 InterBase/FireBird database driver   
+i A libqt4-sql-mysql                - Qt-4-Datenbank-Treiber für MySQL          
+p   libqt4-sql-mysql:i386           - Qt-4-Datenbank-Treiber für MySQL          
+p   libqt4-sql-odbc                 - Qt 4 ODBC database driver                 
+p   libqt4-sql-odbc:i386            - Qt 4 ODBC database driver                 
+p   libqt4-sql-psql                 - Qt 4 PostgreSQL database driver           
+p   libqt4-sql-psql:i386            - Qt 4 PostgreSQL database driver           
+i A libqt4-sql-sqlite               - Qt-4-Datenbank-Treiber für SQLite 3       
+p   libqt4-sql-sqlite:i386          - Qt-4-Datenbank-Treiber für SQLite 3       
+p   libqt4-sql-sqlite2              - Qt 4 SQLite 2 database driver             
+p   libqt4-sql-sqlite2:i386         - Qt 4 SQLite 2 database driver             
+p   libqt4-sql-tds                  - Qt 4 FreeTDS database driver              
+p   libqt4-sql-tds:i386             - Qt 4 FreeTDS database driver              
+i A libqt4-svg                      - Qt-4-SVG-Modul                            
+p   libqt4-svg:i386                 - Qt-4-SVG-Modul                            
+i A libqt4-test                     - Testmodul für Qt 4                        
+p   libqt4-test:i386                - Testmodul für Qt 4                        
+p   libqt4-webkit                   - Übergangspaket für das Qt-4-Modul QtWebKit
+p   libqt4-webkit:i386              - Übergangspaket für das Qt-4-Modul QtWebKit
+p   libqt4-webkit-dbg               - transitional package for Qt 4 WebKit debug
+p   libqt4-webkit-dbg:i386          - transitional package for Qt 4 WebKit debug
+i A libqt4-xml                      - Qt-4-XML-Modul                            
+i A libqt4-xml:i386                 - Qt-4-XML-Modul                            
+i A libqt4-xmlpatterns              - Qt-4-Modul für XML-Schemas                
+p   libqt4-xmlpatterns:i386         - Qt-4-Modul für XML-Schemas                
+p   libqt4-xmlpatterns-dbg          - Qt 4 XML patterns library debugging symbol
+p   libqt4-xmlpatterns-dbg:i386     - Qt 4 XML patterns library debugging symbol
+p   libqt4pas-dev                   - Development files for Qt4Pas              
+p   libqt4pas-dev:i386              - Development files for Qt4Pas              
+p   libqt4pas5                      - Qt4 interface bindings for Pascal         
+p   libqt4pas5:i386                 - Qt4 interface bindings for Pascal         
+p   libqtassistantclient-dev        - Qt Assistant client library (development) 
+p   libqtassistantclient-dev:i386   - Qt Assistant client library (development) 
+i A libqtassistantclient4           - Qt Assistant client library (runtime)     
+p   libqtassistantclient4:i386      - Qt Assistant client library (runtime)     
+p   libqtconnectivity1              - Qt Mobility Connectivity module           
+p   libqtconnectivity1:i386         - Qt Mobility Connectivity module           
+p   libqtcontacts1                  - Qt Mobility Contacts module               
+p   libqtcontacts1:i386             - Qt Mobility Contacts module               
+i A libqtcore4                      - Qt-4-Kernmodul                            
+i A libqtcore4:i386                 - Qt-4-Kernmodul                            
+p   libqtcore4-perl                 - perl bindings for the Qt Core library     
+p   libqtcore4-perl:i386            - perl bindings for the Qt Core library     
+i A libqtdbus4                      - Qt 4 D-Bus module library                 
+i A libqtdbus4:i386                 - Qt 4 D-Bus module library                 
+p   libqtexengine-dev               - Development files for the QTeXEngine libra
+p   libqtexengine-dev:i386          - Development files for the QTeXEngine libra
+p   libqtexengine1                  - Library to export graphics created using Q
+p   libqtexengine1:i386             - Library to export graphics created using Q
+p   libqtfeedback1                  - Qt Mobility Feedback module               
+p   libqtfeedback1:i386             - Qt Mobility Feedback module               
+p   libqtgallery1                   - Qt Mobility Document Gallery module       
+p   libqtgallery1:i386              - Qt Mobility Document Gallery module       
+p   libqtglib-2.0-0                 - C++ bindings library for GLib and GObject 
+p   libqtglib-2.0-0:i386            - C++ bindings library for GLib and GObject 
+p   libqtgstreamer-0.10-0           - C++ bindings library for GStreamer with a 
+p   libqtgstreamer-0.10-0:i386      - C++ bindings library for GStreamer with a 
+p   libqtgstreamer-dev              - Development headers for QtGStreamer       
+p   libqtgstreamer-dev:i386         - Development headers for QtGStreamer       
+p   libqtgstreamerui-0.10-0         - QtGStreamerUi library                     
+p   libqtgstreamerui-0.10-0:i386    - QtGStreamerUi library                     
+p   libqtgstreamerutils-0.10-0      - QtGStreamerUtils library                  
+p   libqtgstreamerutils-0.10-0:i386 - QtGStreamerUtils library                  
+i A libqtgui4                       - Qt4-Modul für grafische Benutzeroberfläche
+i A libqtgui4:i386                  - Qt4-Modul für grafische Benutzeroberfläche
+p   libqtgui4-perl                  - perl bindings for the Qt Gui library      
+p   libqtgui4-perl:i386             - perl bindings for the Qt Gui library      
+p   libqthreads-12                  - QuickThreads-Bibliothek für Guile         
+p   libqthreads-12:i386             - QuickThreads-Bibliothek für Guile         
+i A libqtlocation1                  - Qt Mobility Location module               
+p   libqtlocation1:i386             - Qt Mobility Location module               
+p   libqtmessaging1                 - Qt Mobility Messaging module              
+p   libqtmessaging1:i386            - Qt Mobility Messaging module              
+p   libqtmultimediakit1             - Qt Mobility MultimediaKit module          
+p   libqtmultimediakit1:i386        - Qt Mobility MultimediaKit module          
+p   libqtnetwork4-perl              - perl bindings for the Qt Network library  
+p   libqtnetwork4-perl:i386         - perl bindings for the Qt Network library  
+p   libqtorganizer1                 - Qt Mobility Organizer module              
+p   libqtorganizer1:i386            - Qt Mobility Organizer module              
+p   libqtpropertybrowser3           - Qt Property Browser Library - runtime     
+p   libqtpropertybrowser3:i386      - Qt Property Browser Library - runtime     
+p   libqtpropertybrowser3-dev       - Qt Property Browser Library - development 
+p   libqtpropertybrowser3-dev:i386  - Qt Property Browser Library - development 
+p   libqtpublishsubscribe1          - Qt Mobility Publish and Subscribe module  
+p   libqtpublishsubscribe1:i386     - Qt Mobility Publish and Subscribe module  
+p   libqtruby4shared-dev            - internal library for Qt 4 Ruby bindings --
+p   libqtruby4shared-dev:i386       - internal library for Qt 4 Ruby bindings --
+i A libqtruby4shared2               - internal library for Qt 4 Ruby bindings   
+p   libqtruby4shared2:i386          - internal library for Qt 4 Ruby bindings   
+i A libqtscript4-core               - QtScript-Anbindungen für die Qt-4-Hauptbib
+p   libqtscript4-core:i386          - QtScript-Anbindungen für die Qt-4-Hauptbib
+p   libqtscript4-doc                - Qt 4 QtScript bindings API documentation a
+i A libqtscript4-gui                - QtScript-Anbindungen für die Qt-4-GUI-Bibl
+p   libqtscript4-gui:i386           - QtScript-Anbindungen für die Qt-4-GUI-Bibl
+i A libqtscript4-network            - QtScript-Anbindungen für die Qt-4-Netzwerk
+p   libqtscript4-network:i386       - QtScript-Anbindungen für die Qt-4-Netzwerk
+p   libqtscript4-opengl             - QtScript bindings for the Qt 4 OpenGL libr
+p   libqtscript4-opengl:i386        - QtScript bindings for the Qt 4 OpenGL libr
+p   libqtscript4-phonon             - QtScript bindings for the Qt 4 Phonon libr
+p   libqtscript4-phonon:i386        - QtScript bindings for the Qt 4 Phonon libr
+p   libqtscript4-qtbindings         - QtScript bindings for Qt 4 - metapackage  
+p   libqtscript4-qtbindings:i386    - QtScript bindings for Qt 4 - metapackage  
+i A libqtscript4-sql                - QtScript-Anbindungen für die Qt-4-SQL-Bibl
+p   libqtscript4-sql:i386           - QtScript-Anbindungen für die Qt-4-SQL-Bibl
+p   libqtscript4-svg                - QtScript bindings for the Qt 4 SVG library
+p   libqtscript4-svg:i386           - QtScript bindings for the Qt 4 SVG library
+i A libqtscript4-uitools            - QtScript-Anbindungen für die Qt-4-Biblioth
+p   libqtscript4-uitools:i386       - QtScript-Anbindungen für die Qt-4-Biblioth
+p   libqtscript4-webkit             - QtScript bindings for the Qt 4 WebKit libr
+p   libqtscript4-webkit:i386        - QtScript bindings for the Qt 4 WebKit libr
+i A libqtscript4-xml                - QtScript-Anbindungen für die Qt-4-XML-Bibl
+p   libqtscript4-xml:i386           - QtScript-Anbindungen für die Qt-4-XML-Bibl
+p   libqtscript4-xmlpatterns        - QtScript bindings for the Qt 4 XML pattern
+p   libqtscript4-xmlpatterns:i386   - QtScript bindings for the Qt 4 XML pattern
+p   libqtsensors1                   - Qt Mobility Sensors module                
+p   libqtsensors1:i386              - Qt Mobility Sensors module                
+p   libqtserviceframework1          - Qt Mobility Service Framework module      
+p   libqtserviceframework1:i386     - Qt Mobility Service Framework module      
+p   libqtsolutions-soap-2.7-1       - Basic web service support - SOAP protocol 
+p   libqtsolutions-soap-2.7-1:i386  - Basic web service support - SOAP protocol 
+p   libqtsysteminfo1                - Qt Mobility System Information module     
+p   libqtsysteminfo1:i386           - Qt Mobility System Information module     
+p   libqttest4-perl                 - perl bindings for the Qt Test library     
+p   libqttest4-perl:i386            - perl bindings for the Qt Test library     
+p   libqtversit1                    - Qt Mobility Versit (vCard) module         
+p   libqtversit1:i386               - Qt Mobility Versit (vCard) module         
+p   libqtversitorganizer1           - Qt Mobility Versit (Organizer) module     
+p   libqtversitorganizer1:i386      - Qt Mobility Versit (Organizer) module     
+p   libqtwebkit-dev                 - Qt-Bibliothek für eine Webinhalt-Engine - 
+p   libqtwebkit-dev:i386            - Qt-Bibliothek für eine Webinhalt-Engine - 
+p   libqtwebkit-qmlwebkitplugin     - Qt WebKit QML plugin                      
+p   libqtwebkit-qmlwebkitplugin:i38 - Qt WebKit QML plugin                      
+i A libqtwebkit4                    - Qt-Bibliothek für eine Webinhalt-Engine   
+c   libqtwebkit4:i386               - Qt-Bibliothek für eine Webinhalt-Engine   
+p   libqtwebkit4-dbg                - Web content engine library for Qt - debugg
+p   libqtwebkit4-dbg:i386           - Web content engine library for Qt - debugg
+p   libqtxdg0                       - Implementation of the XDG Specifications f
+p   libqtxdg0:i386                  - Implementation of the XDG Specifications f
+p   libqtxdg0-dev                   - Implementation of the XDG Specifications f
+p   libqtxdg0-dev:i386              - Implementation of the XDG Specifications f
+p   libqtxml4-perl                  - perl bindings for the Qt Xml library      
+p   libqtxml4-perl:i386             - perl bindings for the Qt Xml library      
+p   libqwt5-qt4                     - Qt4 widgets library for technical applicat
+p   libqwt5-qt4:i386                - Qt4 widgets library for technical applicat
+p   libqwt5-qt4-dev                 - Qt4 widgets library for technical applicat
+p   libqwt5-qt4-dev:i386            - Qt4 widgets library for technical applicat
+p   libqwtplot3d-qt4-0              - 3D plotting library based on Qt4/OpenGL (r
+p   libqwtplot3d-qt4-0:i386         - 3D plotting library based on Qt4/OpenGL (r
+p   libqwtplot3d-qt4-dev            - 3D plotting library based on Qt4/OpenGL (d
+p   libqwtplot3d-qt4-dev:i386       - 3D plotting library based on Qt4/OpenGL (d
+p   librazorqt0                     - Shared libraries for Razor-qt desktop envi
+p   librazorqt0:i386                - Shared libraries for Razor-qt desktop envi
+p   librazorqt0-dev                 - Shared libraries for Razor-qt desktop envi
+p   librazorqt0-dev:i386            - Shared libraries for Razor-qt desktop envi
+p   libsmokeqt3support4-3           - Qt3 Support SMOKE library                 
+p   libsmokeqt3support4-3:i386      - Qt3 Support SMOKE library                 
+p   libsmokeqt4-dbg                 - Qt SMOKE libraries debug symbols          
+p   libsmokeqt4-dbg:i386            - Qt SMOKE libraries debug symbols          
+p   libsmokeqt4-dev                 - Development files for Qt SMOKE libraries  
+p   libsmokeqt4-dev:i386            - Development files for Qt SMOKE libraries  
+i A libsmokeqtcore4-3               - Qt Core SMOKE library                     
+p   libsmokeqtcore4-3:i386          - Qt Core SMOKE library                     
+i A libsmokeqtdbus4-3               - Qt D-Bus SMOKE library                    
+p   libsmokeqtdbus4-3:i386          - Qt D-Bus SMOKE library                    
+p   libsmokeqtdeclarative4-3        - Qt Declarative SMOKE library              
+p   libsmokeqtdeclarative4-3:i386   - Qt Declarative SMOKE library              
+i A libsmokeqtgui4-3                - Qt Gui SMOKE library                      
+p   libsmokeqtgui4-3:i386           - Qt Gui SMOKE library                      
+p   libsmokeqthelp4-3               - Qt Help SMOKE library                     
+p   libsmokeqthelp4-3:i386          - Qt Help SMOKE library                     
+i A libsmokeqtnetwork4-3            - Qt Network SMOKE library                  
+p   libsmokeqtnetwork4-3:i386       - Qt Network SMOKE library                  
+i A libsmokeqtopengl4-3             - Qt OpenGL SMOKE library                   
+p   libsmokeqtopengl4-3:i386        - Qt OpenGL SMOKE library                   
+p   libsmokeqtscript4-3             - Qt Script SMOKE library                   
+p   libsmokeqtscript4-3:i386        - Qt Script SMOKE library                   
+i A libsmokeqtsql4-3                - Qt Sql SMOKE library                      
+p   libsmokeqtsql4-3:i386           - Qt Sql SMOKE library                      
+i A libsmokeqtsvg4-3                - Qt Svg SMOKE library                      
+p   libsmokeqtsvg4-3:i386           - Qt Svg SMOKE library                      
+p   libsmokeqttest4-3               - Qt Test SMOKE library                     
+p   libsmokeqttest4-3:i386          - Qt Test SMOKE library                     
+p   libsmokeqtuitools4-3            - Qt Ui Tools SMOKE library                 
+p   libsmokeqtuitools4-3:i386       - Qt Ui Tools SMOKE library                 
+i A libsmokeqtwebkit4-3             - Qt WebKit SMOKE library                   
+p   libsmokeqtwebkit4-3:i386        - Qt WebKit SMOKE library                   
+i A libsmokeqtxml4-3                - Qt Xml SMOKE library                      
+p   libsmokeqtxml4-3:i386           - Qt Xml SMOKE library                      
+p   libsmokeqtxmlpatterns4-3        - Qt XmlPatterns SMOKE library              
+p   libsmokeqtxmlpatterns4-3:i386   - Qt XmlPatterns SMOKE library              
+v   libsoqt-dev                     -                                           
+v   libsoqt-dev:i386                -                                           
+p   libsoqt-dev-common              - Qt GUI component toolkit for Inventor - co
+p   libsoqt-dev-common:i386         - Qt GUI component toolkit for Inventor - co
+p   libsoqt4-20                     - Qt4 GUI component toolkit for Inventor - r
+p   libsoqt4-20:i386                - Qt4 GUI component toolkit for Inventor - r
+p   libsoqt4-dev                    - Qt4 GUI component toolkit for Inventor - d
+p   libsoqt4-dev:i386               - Qt4 GUI component toolkit for Inventor - d
+p   libstrigiqtdbusclient-dev       - development files for libstrigiqtdbusclien
+p   libstrigiqtdbusclient-dev:i386  - development files for libstrigiqtdbusclien
+p   libstrigiqtdbusclient0          - library for writing D-Bus clients for Stri
+p   libstrigiqtdbusclient0:i386     - library for writing D-Bus clients for Stri
+p   libsvnqt-dev                    - Qt wrapper library for Subversion (develop
+p   libsvnqt-dev:i386               - Qt wrapper library for Subversion (develop
+p   libsvnqt6                       - Qt wrapper library for Subversion         
+p   libsvnqt6:i386                  - Qt wrapper library for Subversion         
+p   libtelepathy-logger-qt4-1       - Qt bindings for the telepathy-logger libra
+p   libtelepathy-logger-qt4-1:i386  - Qt bindings for the telepathy-logger libra
+p   libtelepathy-logger-qt4-1-dbg   - Qt bindings for the telepathy-logger libra
+p   libtelepathy-logger-qt4-1-dbg:i - Qt bindings for the telepathy-logger libra
+p   libtelepathy-logger-qt4-dev     - Qt bindings for the telepathy-logger libra
+p   libtelepathy-logger-qt4-dev:i38 - Qt bindings for the telepathy-logger libra
+p   libtelepathy-qt4-2              - Telepathy framework - Qt 4 library        
+p   libtelepathy-qt4-2:i386         - Telepathy framework - Qt 4 library        
+p   libtelepathy-qt4-dbg            - Qt 4 Telepathy library (debug symbols)    
+p   libtelepathy-qt4-dbg:i386       - Qt 4 Telepathy library (debug symbols)    
+p   libtelepathy-qt4-dev            - Qt 4 Telepathy library (headers and static
+p   libtelepathy-qt4-dev:i386       - Qt 4 Telepathy library (headers and static
+p   libtelepathy-qt4-doc            - Qt 4 Telepathy library (documentation)    
+p   libtelepathy-qt4-farstream2     - Telepathy/Farsight integration - Qt 4 libr
+p   libtelepathy-qt4-farstream2:i38 - Telepathy/Farsight integration - Qt 4 libr
+p   libtulip-qt4-3.7                - Tulip graph library - Qt/OpenGL GUI runtim
+p   libtulip-qt4-3.7:i386           - Tulip graph library - Qt/OpenGL GUI runtim
+p   libvtk5-qt4-dev                 - Visualization Toolkit - hochentwickelte 3D
+p   libvtk5-qt4-dev:i386            - Visualization Toolkit - hochentwickelte 3D
+p   libvtk5.8-qt4                   - Visualization Toolkit - hochentwickelte 3D
+p   libvtk5.8-qt4:i386              - Visualization Toolkit - hochentwickelte 3D
+p   libzbarqt-dev                   - bar code scanner and decoder (Qt bindings 
+p   libzbarqt-dev:i386              - bar code scanner and decoder (Qt bindings 
+p   libzbarqt0                      - Scanner und Dekodierer von Strichcodes (Qt
+p   libzbarqt0:i386                 - Scanner und Dekodierer von Strichcodes (Qt
+i A libzlui-qt4                     - Qt4-Schnittstellenmodul für ZLibrary      
+p   libzlui-qt4:i386                - Qt4-Schnittstellenmodul für ZLibrary      
+p   licq-plugin-qt                  - dummy package for transition to licq-plugi
+p   licq-plugin-qt4                 - graphical user interface plug-in for Licq 
+p   licq-plugin-qt4:i386            - graphical user interface plug-in for Licq 
+p   licq-plugin-qt4-common          - common data files for the Qt4 and KDE4 Lic
+v   lsb-qt4                         -                                           
+v   lsb-qt4:i386                    -                                           
+v   lsb-qt4-amd64                   -                                           
+v   lsb-qt4-ia32:i386               -                                           
+v   lsb-qt4-noarch                  -                                           
+v   lsb-qt4-noarch:i386             -                                           
+p   navit-graphics-qt-qpainter      - Car navigation system with routing engine 
+p   navit-graphics-qt-qpainter:i386 - Car navigation system with routing engine 
+p   nvclock-qt                      - Overclock an NVIDIA card (Qt interface)   
+p   nvclock-qt:i386                 - Overclock an NVIDIA card (Qt interface)   
+p   openwalnut-qt4                  - Qt based user interface for OpenWalnut    
+p   openwalnut-qt4:i386             - Qt based user interface for OpenWalnut    
+v   pinentry-qt                     -                                           
+v   pinentry-qt:i386                -                                           
+p   pinentry-qt4                    - Qt-4-basierender Eingabedialog für PINs od
+p   pinentry-qt4:i386               - Qt-4-basierender Eingabedialog für PINs od
+p   plplot11-driver-qt              - Scientific plotting library (qt driver)   
+p   plplot11-driver-qt:i386         - Scientific plotting library (qt driver)   
+p   pyicqt                          - ICQ transport for Jabber                  
+p   pyqt4-dev-tools                 - Entwicklungswerkzeuge für PyQt4           
+p   pyqt4-dev-tools:i386            - Entwicklungswerkzeuge für PyQt4           
+p   python-plplot-qt                - Scientific plotting library (python qt GUI
+p   python-plplot-qt:i386           - Scientific plotting library (python qt GUI
+p   python-poppler-qt4              - Python binding to Poppler Qt4 C++ library 
+p   python-poppler-qt4:i386         - Python binding to Poppler Qt4 C++ library 
+p   python-pyside.qtcore            - Qt 4 core module - Python bindings        
+p   python-pyside.qtcore:i386       - Qt 4 core module - Python bindings        
+p   python-pyside.qtdeclarative     - Qt 4 Declarative module - Python bindings 
+p   python-pyside.qtdeclarative:i38 - Qt 4 Declarative module - Python bindings 
+p   python-pyside.qtgui             - Qt 4 GUI module - Python bindings         
+p   python-pyside.qtgui:i386        - Qt 4 GUI module - Python bindings         
+p   python-pyside.qthelp            - Qt 4 help module - Python bindings        
+p   python-pyside.qthelp:i386       - Qt 4 help module - Python bindings        
+p   python-pyside.qtnetwork         - Qt 4 network module - Python bindings     
+p   python-pyside.qtnetwork:i386    - Qt 4 network module - Python bindings     
+p   python-pyside.qtopengl          - Qt 4 OpenGL module - Python bindings      
+p   python-pyside.qtopengl:i386     - Qt 4 OpenGL module - Python bindings      
+p   python-pyside.qtscript          - Qt 4 script module - Python bindings      
+p   python-pyside.qtscript:i386     - Qt 4 script module - Python bindings      
+p   python-pyside.qtsql             - Qt 4 SQL module - Python bindings         
+p   python-pyside.qtsql:i386        - Qt 4 SQL module - Python bindings         
+p   python-pyside.qtsvg             - Qt 4 SVG module - Python bindings         
+p   python-pyside.qtsvg:i386        - Qt 4 SVG module - Python bindings         
+p   python-pyside.qttest            - Qt 4 test module - Python bindings        
+p   python-pyside.qttest:i386       - Qt 4 test module - Python bindings        
+p   python-pyside.qtuitools         - Qt 4 UI tools module - Python bindings    
+p   python-pyside.qtuitools:i386    - Qt 4 UI tools module - Python bindings    
+p   python-pyside.qtwebkit          - Qt 4 WebKit module - Python bindings      
+p   python-pyside.qtwebkit:i386     - Qt 4 WebKit module - Python bindings      
+p   python-pyside.qtxml             - Qt 4 XML module - Python bindings         
+p   python-pyside.qtxml:i386        - Qt 4 XML module - Python bindings         
+i A python-qt4                      - Python-Sprachanbindungen für Qt4          
+p   python-qt4:i386                 - Python-Sprachanbindungen für Qt4          
+p   python-qt4-dbg                  - Python-Anbindungen für Qt4 (Debug-Erweiter
+p   python-qt4-dbg:i386             - Python-Anbindungen für Qt4 (Debug-Erweiter
+i A python-qt4-dbus                 - D-Bus-Unterstützung für PyQt4             
+p   python-qt4-dbus:i386            - D-Bus-Unterstützung für PyQt4             
+p   python-qt4-dbus-dbg             - D-Bus Support for PyQt4 (debug extensions)
+p   python-qt4-dbus-dbg:i386        - D-Bus Support for PyQt4 (debug extensions)
+p   python-qt4-dev                  - Development files for PyQt4               
+p   python-qt4-doc                  - Documentation and examples for PyQt4      
+p   python-qt4-gl                   - Python bindings for Qt4's OpenGL module   
+p   python-qt4-gl:i386              - Python bindings for Qt4's OpenGL module   
+p   python-qt4-gl-dbg               - Python bindings for Qt4's OpenGL module (d
+p   python-qt4-gl-dbg:i386          - Python bindings for Qt4's OpenGL module (d
+p   python-qt4-phonon               - Python bindings for Phonon                
+p   python-qt4-phonon:i386          - Python bindings for Phonon                
+p   python-qt4-phonon-dbg           - Python bindings for Phonon (debug extensio
+p   python-qt4-phonon-dbg:i386      - Python bindings for Phonon (debug extensio
+i A python-qt4-sql                  - Python bindings for PyQt4's SQL module    
+p   python-qt4-sql:i386             - Python bindings for PyQt4's SQL module    
+p   python-qt4-sql-dbg              - Python bindings for PyQt4's SQL module (de
+p   python-qt4-sql-dbg:i386         - Python bindings for PyQt4's SQL module (de
+p   python-qwt3d-qt4                - Python bindings of the QwtPlot3D library  
+p   python-qwt3d-qt4:i386           - Python bindings of the QwtPlot3D library  
+p   python-qwt5-qt4                 - Python version of the Qwt5 technical widge
+p   python-qwt5-qt4:i386            - Python version of the Qwt5 technical widge
+p   python-traitsbackendqt          - PyQt backend for Traits and TraitsGUI (Pyf
+v   python2.6-plplot-qt             -                                           
+v   python2.6-plplot-qt:i386        -                                           
+v   python2.6-pyside.qtcore         -                                           
+v   python2.6-pyside.qtcore:i386    -                                           
+v   python2.6-pyside.qtdeclarative  -                                           
+v   python2.6-pyside.qtdeclarative: -                                           
+v   python2.6-pyside.qtgui          -                                           
+v   python2.6-pyside.qtgui:i386     -                                           
+v   python2.6-pyside.qthelp         -                                           
+v   python2.6-pyside.qthelp:i386    -                                           
+v   python2.6-pyside.qtnetwork      -                                           
+v   python2.6-pyside.qtnetwork:i386 -                                           
+v   python2.6-pyside.qtopengl       -                                           
+v   python2.6-pyside.qtopengl:i386  -                                           
+v   python2.6-pyside.qtscript       -                                           
+v   python2.6-pyside.qtscript:i386  -                                           
+v   python2.6-pyside.qtsql          -                                           
+v   python2.6-pyside.qtsql:i386     -                                           
+v   python2.6-pyside.qtsvg          -                                           
+v   python2.6-pyside.qtsvg:i386     -                                           
+v   python2.6-pyside.qttest         -                                           
+v   python2.6-pyside.qttest:i386    -                                           
+v   python2.6-pyside.qtuitools      -                                           
+v   python2.6-pyside.qtuitools:i386 -                                           
+v   python2.6-pyside.qtwebkit       -                                           
+v   python2.6-pyside.qtwebkit:i386  -                                           
+v   python2.6-pyside.qtxml          -                                           
+v   python2.6-pyside.qtxml:i386     -                                           
+v   python2.6-qt4                   -                                           
+v   python2.6-qt4:i386              -                                           
+v   python2.7-plplot-qt             -                                           
+v   python2.7-plplot-qt:i386        -                                           
+v   python2.7-pyside.qtcore         -                                           
+v   python2.7-pyside.qtcore:i386    -                                           
+v   python2.7-pyside.qtdeclarative  -                                           
+v   python2.7-pyside.qtdeclarative: -                                           
+v   python2.7-pyside.qtgui          -                                           
+v   python2.7-pyside.qtgui:i386     -                                           
+v   python2.7-pyside.qthelp         -                                           
+v   python2.7-pyside.qthelp:i386    -                                           
+v   python2.7-pyside.qtnetwork      -                                           
+v   python2.7-pyside.qtnetwork:i386 -                                           
+v   python2.7-pyside.qtopengl       -                                           
+v   python2.7-pyside.qtopengl:i386  -                                           
+v   python2.7-pyside.qtscript       -                                           
+v   python2.7-pyside.qtscript:i386  -                                           
+v   python2.7-pyside.qtsql          -                                           
+v   python2.7-pyside.qtsql:i386     -                                           
+v   python2.7-pyside.qtsvg          -                                           
+v   python2.7-pyside.qtsvg:i386     -                                           
+v   python2.7-pyside.qttest         -                                           
+v   python2.7-pyside.qttest:i386    -                                           
+v   python2.7-pyside.qtuitools      -                                           
+v   python2.7-pyside.qtuitools:i386 -                                           
+v   python2.7-pyside.qtwebkit       -                                           
+v   python2.7-pyside.qtwebkit:i386  -                                           
+v   python2.7-pyside.qtxml          -                                           
+v   python2.7-pyside.qtxml:i386     -                                           
+v   python2.7-qt4                   -                                           
+v   python2.7-qt4:i386              -                                           
+p   python3-dbus.mainloop.qt        - D-Bus Support for PyQt4 with Python 3     
+p   python3-dbus.mainloop.qt:i386   - D-Bus Support for PyQt4 with Python 3     
+p   python3-dbus.mainloop.qt-dbg    - D-Bus Support for PyQt4 (debug extensions 
+p   python3-dbus.mainloop.qt-dbg:i3 - D-Bus Support for PyQt4 (debug extensions 
+p   python3-pyqt4                   - Python3 bindings for Qt4                  
+p   python3-pyqt4:i386              - Python3 bindings for Qt4                  
+p   python3-pyqt4-dbg               - Python3 bindings for Qt4 (debug extensions
+p   python3-pyqt4-dbg:i386          - Python3 bindings for Qt4 (debug extensions
+p   python3-pyqt4.phonon            - Python3 bindings for Phonon               
+p   python3-pyqt4.phonon:i386       - Python3 bindings for Phonon               
+p   python3-pyqt4.phonon-dbg        - Python3 bindings for Phonon (debug extensi
+p   python3-pyqt4.phonon-dbg:i386   - Python3 bindings for Phonon (debug extensi
+p   python3-pyqt4.qsci              - Python 3 bindings for QScintilla 2        
+p   python3-pyqt4.qsci:i386         - Python 3 bindings for QScintilla 2        
+p   python3-pyqt4.qtopengl          - Python 3 bindings for Qt4's OpenGL module 
+p   python3-pyqt4.qtopengl:i386     - Python 3 bindings for Qt4's OpenGL module 
+p   python3-pyqt4.qtopengl-dbg      - Python 3 bindings for Qt4's OpenGL module 
+p   python3-pyqt4.qtopengl-dbg:i386 - Python 3 bindings for Qt4's OpenGL module 
+p   python3-pyqt4.qtsql             - Python3 bindings for PyQt4's SQL module   
+p   python3-pyqt4.qtsql:i386        - Python3 bindings for PyQt4's SQL module   
+p   python3-pyqt4.qtsql-dbg         - Python3 bindings for PyQt4's SQL module (d
+p   python3-pyqt4.qtsql-dbg:i386    - Python3 bindings for PyQt4's SQL module (d
+p   python3-pyside.qtcore           - Qt 4 core module - Python3 bindings       
+p   python3-pyside.qtcore:i386      - Qt 4 core module - Python3 bindings       
+p   python3-pyside.qtdeclarative    - Qt 4 Declarative module - Python3 bindings
+p   python3-pyside.qtdeclarative:i3 - Qt 4 Declarative module - Python3 bindings
+p   python3-pyside.qtgui            - Qt 4 GUI module - Python3 bindings        
+p   python3-pyside.qtgui:i386       - Qt 4 GUI module - Python3 bindings        
+p   python3-pyside.qthelp           - Qt 4 help module - Python3 bindings       
+p   python3-pyside.qthelp:i386      - Qt 4 help module - Python3 bindings       
+p   python3-pyside.qtnetwork        - Qt 4 network module - Python3 bindings    
+p   python3-pyside.qtnetwork:i386   - Qt 4 network module - Python3 bindings    
+p   python3-pyside.qtopengl         - Qt 4 OpenGL module - Python3 bindings     
+p   python3-pyside.qtopengl:i386    - Qt 4 OpenGL module - Python3 bindings     
+p   python3-pyside.qtscript         - Qt 4 script module - Python3 bindings     
+p   python3-pyside.qtscript:i386    - Qt 4 script module - Python3 bindings     
+p   python3-pyside.qtsql            - Qt 4 SQL module - Python3 bindings        
+p   python3-pyside.qtsql:i386       - Qt 4 SQL module - Python3 bindings        
+p   python3-pyside.qtsvg            - Qt 4 SVG module - Python3 bindings        
+p   python3-pyside.qtsvg:i386       - Qt 4 SVG module - Python3 bindings        
+p   python3-pyside.qttest           - Qt 4 test module - Python3 bindings       
+p   python3-pyside.qttest:i386      - Qt 4 test module - Python3 bindings       
+p   python3-pyside.qtuitools        - Qt 4 UI tools module - Python3 bindings   
+p   python3-pyside.qtuitools:i386   - Qt 4 UI tools module - Python3 bindings   
+p   python3-pyside.qtwebkit         - Qt 4 WebKit module - Python3 bindings     
+p   python3-pyside.qtwebkit:i386    - Qt 4 WebKit module - Python3 bindings     
+p   python3-pyside.qtxml            - Qt 4 XML module - Python3 bindings        
+p   python3-pyside.qtxml:i386       - Qt 4 XML module - Python3 bindings        
+v   python3.2-pyside.qtcore         -                                           
+v   python3.2-pyside.qtcore:i386    -                                           
+v   python3.2-pyside.qtdeclarative  -                                           
+v   python3.2-pyside.qtdeclarative: -                                           
+v   python3.2-pyside.qtgui          -                                           
+v   python3.2-pyside.qtgui:i386     -                                           
+v   python3.2-pyside.qthelp         -                                           
+v   python3.2-pyside.qthelp:i386    -                                           
+v   python3.2-pyside.qtnetwork      -                                           
+v   python3.2-pyside.qtnetwork:i386 -                                           
+v   python3.2-pyside.qtopengl       -                                           
+v   python3.2-pyside.qtopengl:i386  -                                           
+v   python3.2-pyside.qtscript       -                                           
+v   python3.2-pyside.qtscript:i386  -                                           
+v   python3.2-pyside.qtsql          -                                           
+v   python3.2-pyside.qtsql:i386     -                                           
+v   python3.2-pyside.qtsvg          -                                           
+v   python3.2-pyside.qtsvg:i386     -                                           
+v   python3.2-pyside.qttest         -                                           
+v   python3.2-pyside.qttest:i386    -                                           
+v   python3.2-pyside.qtuitools      -                                           
+v   python3.2-pyside.qtuitools:i386 -                                           
+v   python3.2-pyside.qtwebkit       -                                           
+v   python3.2-pyside.qtwebkit:i386  -                                           
+v   python3.2-pyside.qtxml          -                                           
+v   python3.2-pyside.qtxml:i386     -                                           
+p   qimhangul-qt4                   - Hangul input method module for Qt         
+p   qimhangul-qt4:i386              - Hangul input method module for Qt         
+p   qt-assistant-compat             - Qt Assistant compatibility binary (legacy)
+p   qt-assistant-compat:i386        - Qt Assistant compatibility binary (legacy)
+p   qt-at-spi                       - at-spi accessibility plugin for Qt        
+p   qt-at-spi:i386                  - at-spi accessibility plugin for Qt        
+p   qt-at-spi-doc                   - at-spi accessibility plugin for Qt - Docum
+p   qt-sdk                          - Complete Qt Software Development Kit      
+p   qt4-bin-dbg                     - Qt 4 binaries debugging symbols           
+p   qt4-bin-dbg:i386                - Qt 4 binaries debugging symbols           
+p   qt4-demos                       - Beispiele und Demos für Qt 4              
+p   qt4-demos:i386                  - Beispiele und Demos für Qt 4              
+p   qt4-demos-dbg                   - Beispiele und Demos für Qt 4 - Debugsymbol
+p   qt4-demos-dbg:i386              - Beispiele und Demos für Qt 4 - Debugsymbol
+p   qt4-designer                    - Grafisches Entwurfsprogramm für Qt-4-Anwen
+p   qt4-designer:i386               - Grafisches Entwurfsprogramm für Qt-4-Anwen
+p   qt4-dev-tools                   - Qt-4-Entwicklungswerkzeuge                
+p   qt4-dev-tools:i386              - Qt-4-Entwicklungswerkzeuge                
+p   qt4-doc                         - Qt 4 API documentation                    
+p   qt4-doc-html                    - Qt 4 API documentation (HTML format)      
+p   qt4-linguist-tools              - Werkzeuge für Qt 4 Linguist               
+p   qt4-linguist-tools:i386         - Werkzeuge für Qt 4 Linguist               
+p   qt4-qmake                       - qmake - Qt-4-Werkzeug zur Makefile-Erstell
+p   qt4-qmake:i386                  - qmake - Qt-4-Werkzeug zur Makefile-Erstell
+p   qt4-qmlviewer                   - Qt 4 QML viewer                           
+p   qt4-qmlviewer:i386              - Qt 4 QML viewer                           
+p   qt4-qtconfig                    - Qt-4-Konfigurationswerkzeug               
+p   qt4-qtconfig:i386               - Qt-4-Konfigurationswerkzeug               
+p   qtads                           - Qt HTML interpreter for TADS              
+p   qtads:i386                      - Qt HTML interpreter for TADS              
+p   qtcreator                       - Leichtgewichtige integrierte Entwicklungsu
+p   qtcreator:i386                  - Leichtgewichtige integrierte Entwicklungsu
+p   qtcreator-dbg                   - debugging symbols for Qt Creator IDE      
+p   qtcreator-dbg:i386              - debugging symbols for Qt Creator IDE      
+p   qtcreator-doc                   - documentation for Qt Creator IDE          
+p   qtcurve                         - Unified window decoration for KDE and GTK+
+p   qtcurve:i386                    - Unified window decoration for KDE and GTK+
+p   qtcurve-i18n                    - Translation files for QtCurve             
+p   qtemu                           - graphical user interface for QEMU         
+p   qtemu:i386                      - graphical user interface for QEMU         
+p   qterm                           - Mit Qt geschriebener BBS-Client für das X 
+p   qterm:i386                      - Mit Qt geschriebener BBS-Client für das X 
+p   qtgstreamer-dbg                 - Debug symbols for QtGStreamer             
+p   qtgstreamer-dbg:i386            - Debug symbols for QtGStreamer             
+p   qtgstreamer-declarative         - QML plugins from QtGStreamer              
+p   qtgstreamer-declarative:i386    - QML plugins from QtGStreamer              
+p   qtgstreamer-doc                 - QtGStreamer API documentation             
+p   qtgstreamer-plugins             - GStreamer plugins from QtGStreamer        
+p   qtgstreamer-plugins:i386        - GStreamer plugins from QtGStreamer        
+p   qthid-fcd-controller            - Funcube Dongle controller                 
+p   qthid-fcd-controller:i386       - Funcube Dongle controller                 
+p   qtikz                           - editor for the TikZ drawing language - Qt 
+p   qtikz:i386                      - editor for the TikZ drawing language - Qt 
+p   qtiplot                         - Datenanalyse und wissenschaftliche Plots  
+p   qtiplot:i386                    - Datenanalyse und wissenschaftliche Plots  
+p   qtiplot-doc                     - Datenanalyse und wissenschaftliche Grafike
+p   qtm                             - Web-log interface program                 
+p   qtm:i386                        - Web-log interface program                 
+p   qtmobility-dbg                  - APIs for mobile device functionality - deb
+p   qtmobility-dbg:i386             - APIs for mobile device functionality - deb
+p   qtmobility-dev                  - APIs for mobile device functionality - dev
+p   qtmobility-dev:i386             - APIs for mobile device functionality - dev
+p   qtmobility-examples             - Qt Mobility examples                      
+p   qtmobility-examples:i386        - Qt Mobility examples                      
+p   qtmobility-l10n                 - APIs for mobile device functionality - loc
+p   qtoctave                        - Qt-Frontend für Octave                    
+p   qtoctave:i386                   - Qt-Frontend für Octave                    
+p   qtpfsgui                        - luminance-hdr transitional package        
+p   qtqr                            - Qt frontend for QR code generator and deco
+p   qtractor                        - MIDI/Audio Multi-Track-Sequenzer          
+p   qtractor:i386                   - MIDI/Audio Multi-Track-Sequenzer          
+p   qtractor-dbg                    - Debugsymbole für Qtractor                 
+p   qtractor-dbg:i386               - Debugsymbole für Qtractor                 
+p   qtscript-tools                  - tools for QtScript developers             
+p   qtscript-tools:i386             - tools for QtScript developers             
+p   qtscrob                         - Sendet .scrobbler.log-Dateien (im Rockbox-
+p   qtscrob:i386                    - Sendet .scrobbler.log-Dateien (im Rockbox-
+p   qtsmbstatus-client              - GUI (graphical user interface) for smbstat
+p   qtsmbstatus-client:i386         - GUI (graphical user interface) for smbstat
+p   qtsmbstatus-language            - QtSmbstatus languages package             
+p   qtsmbstatus-light               - GUI (graphical user interface) for smbstat
+p   qtsmbstatus-light:i386          - GUI (graphical user interface) for smbstat
+p   qtsmbstatus-server              - GUI (graphical user interface) for smbstat
+p   qtsmbstatus-server:i386         - GUI (graphical user interface) for smbstat
+p   r-cran-qtl                      - GNU R package for genetic marker linkage a
+p   r-cran-qtl:i386                 - GNU R package for genetic marker linkage a
+p   razorqt                         - Lightweight desktop environment, all compo
+p   razorqt-appswitcher             - Application switcher component for Razor-q
+p   razorqt-appswitcher:i386        - Application switcher component for Razor-q
+p   razorqt-autosuspend             - Autosuspend component for Razor-qt desktop
+p   razorqt-autosuspend:i386        - Autosuspend component for Razor-qt desktop
+p   razorqt-config                  - Configuration component for Razor-qt deskt
+p   razorqt-config:i386             - Configuration component for Razor-qt deskt
+p   razorqt-confupdate              - Configuration update component for Razor-q
+p   razorqt-confupdate:i386         - Configuration update component for Razor-q
+p   razorqt-data                    - Shared data files for Razor-qt desktop env
+p   razorqt-desktop                 - Desktop component for Razor-qt desktop env
+p   razorqt-desktop:i386            - Desktop component for Razor-qt desktop env
+p   razorqt-globalkeyshortcuts      - Keyboard shortcuts component for Razor-qt 
+p   razorqt-globalkeyshortcuts:i386 - Keyboard shortcuts component for Razor-qt 
+p   razorqt-lightdm-greeter         - LightDM greeter for Razor-qt desktop envir
+p   razorqt-lightdm-greeter:i386    - LightDM greeter for Razor-qt desktop envir
+p   razorqt-notificationd           - Notification component for Razor-qt deskto
+p   razorqt-notificationd:i386      - Notification component for Razor-qt deskto
+p   razorqt-openssh-askpass         - OpenSSH helper component for Razor-qt desk
+p   razorqt-openssh-askpass:i386    - OpenSSH helper component for Razor-qt desk
+p   razorqt-panel                   - Panel component for Razor-qt desktop envir
+p   razorqt-panel:i386              - Panel component for Razor-qt desktop envir
+p   razorqt-policykit-agent         - PolicyKit agent component for Razor-qt des
+p   razorqt-policykit-agent:i386    - PolicyKit agent component for Razor-qt des
+p   razorqt-power                   - Power manager component for Razor-qt deskt
+p   razorqt-power:i386              - Power manager component for Razor-qt deskt
+p   razorqt-runner                  - Application launcher component for Razor-q
+p   razorqt-runner:i386             - Application launcher component for Razor-q
+p   razorqt-session                 - Session manager component for Razor-qt des
+p   razorqt-session:i386            - Session manager component for Razor-qt des
+p   root-plugin-graf2d-qt           - Graf2d Qt plugin for ROOT                 
+p   root-plugin-graf2d-qt:i386      - Graf2d Qt plugin for ROOT                 
+p   root-plugin-gui-qt              - Qt plugin for ROOT                        
+p   root-plugin-gui-qt:i386         - Qt plugin for ROOT                        
+i A ruby-qt4                        - Qt-4-Anbindungen für die Sprache Ruby     
+p   ruby-qt4:i386                   - Qt-4-Anbindungen für die Sprache Ruby     
+p   ruby-qt4-dbg                    - Qt 4 bindings for the Ruby language -- deb
+p   ruby-qt4-dbg:i386               - Qt 4 bindings for the Ruby language -- deb
+p   ruby-qt4-declarative            - QtDeclarative bindings for the Ruby langua
+p   ruby-qt4-declarative:i386       - QtDeclarative bindings for the Ruby langua
+p   ruby-qt4-script                 - QtScript bindings for the Ruby language   
+p   ruby-qt4-script:i386            - QtScript bindings for the Ruby language   
+p   ruby-qt4-test                   - QtTest bindings for the Ruby language     
+p   ruby-qt4-test:i386              - QtTest bindings for the Ruby language     
+p   ruby-qt4-uitools                - QtUiTools bindings for the Ruby language  
+p   ruby-qt4-uitools:i386           - QtUiTools bindings for the Ruby language  
+i A ruby-qt4-webkit                 - QtWebKit bindings for the Ruby language   
+p   ruby-qt4-webkit:i386            - QtWebKit bindings for the Ruby language   
+p   scim-qt-immodule                - Qt input method module with SCIM as backen
+p   scim-qt-immodule:i386           - Qt input method module with SCIM as backen
+p   screenie-qt                     - fancy screenshot composer                 
+p   screenie-qt:i386                - fancy screenshot composer                 
+p   transmission-qt                 - Leichtgewichtiger BitTorrent-Client (Qt-Ob
+p   transmission-qt:i386            - Leichtgewichtiger BitTorrent-Client (Qt-Ob
+p   uim-qt                          - Universal Input Method - Qt 4.x front end 
+p   uim-qt:i386                     - Universal Input Method - Qt 4.x front end 
+p   uim-qt3                         - transitional package for uim-qt           
+p   virtualbox-ose-qt               - Übergangspaket für virtualbox-qt          
+p   virtualbox-qt                   - Virtualisierungslösung für x86-Rechner - Q
+p   virtualbox-qt:i386              - Virtualisierungslösung für x86-Rechner - Q
+p   webkit-image-qt                 - generate images from webpages - Qt version
+p   webkit-image-qt:i386            - generate images from webpages - Qt version
+p   weboob-qt                       - Qt applications to interact with websites 
+p   xawtv-plugin-qt                 - television viewer - QuickTime plugin      
+p   xawtv-plugin-qt:i386            - television viewer - QuickTime plugin      
+p   yabause-qt                      - Sehr schöner und unterschätzter Saturn-Emu
+p   yabause-qt:i386                 - Sehr schöner und unterschätzter Saturn-Emu
+p   yate-qt4                        - YATE-based universal telephony client     
+p   yate-qt4:i386                   - YATE-based universal telephony client     
+fohl@FOHL-PC02:wonder3.1.9$ sudo aptitude install libqt4-dev
+Die folgenden NEUEN Pakete werden zusätzlich installiert:
+  libqt4-dev libqt4-dev-bin{a} libqt4-opengl-dev{a} libqtwebkit-dev{a} 
+  qt4-linguist-tools{a} qt4-qmake{a} 
+0 Pakete aktualisiert, 6 zusätzlich installiert, 0 werden entfernt und 335 nicht aktualisiert.
+4.895 kB an Archiven müssen heruntergeladen werden. Nach dem Entpacken werden 27,1 MB zusätzlich belegt sein.
+Möchten Sie fortsetzen? [Y/n/?] 
+Holen: 1 http://ftp.de.debian.org/debian/ testing/main libqt4-dev-bin amd64 4:4.8.2+dfsg-11 [1.629 kB]
+Holen: 2 http://ftp.de.debian.org/debian/ testing/main qt4-linguist-tools amd64 4:4.8.2+dfsg-11 [853 kB]
+Holen: 3 http://ftp.de.debian.org/debian/ testing/main qt4-qmake amd64 4:4.8.2+dfsg-11 [1.267 kB]
+Holen: 4 http://ftp.de.debian.org/debian/ testing/main libqt4-dev amd64 4:4.8.2+dfsg-11 [918 kB]
+Holen: 5 http://ftp.de.debian.org/debian/ testing/main libqt4-opengl-dev amd64 4:4.8.2+dfsg-11 [62,5 kB]
+Holen: 6 http://ftp.de.debian.org/debian/ testing/main libqtwebkit-dev amd64 2.2.1-5 [165 kB]
+4.895 kB wurden in 8 s heruntergeladen (557 kB/s)
+Vormals nicht ausgewähltes Paket libqt4-dev-bin wird gewählt.
+(Lese Datenbank ... 426976 Dateien und Verzeichnisse sind derzeit installiert.)
+Entpacken von libqt4-dev-bin (aus .../libqt4-dev-bin_4%3a4.8.2+dfsg-11_amd64.deb) ...
+Vormals nicht ausgewähltes Paket qt4-linguist-tools wird gewählt.
+Entpacken von qt4-linguist-tools (aus .../qt4-linguist-tools_4%3a4.8.2+dfsg-11_amd64.deb) ...
+Vormals nicht ausgewähltes Paket qt4-qmake wird gewählt.
+Entpacken von qt4-qmake (aus .../qt4-qmake_4%3a4.8.2+dfsg-11_amd64.deb) ...
+Vormals nicht ausgewähltes Paket libqt4-dev wird gewählt.
+Entpacken von libqt4-dev (aus .../libqt4-dev_4%3a4.8.2+dfsg-11_amd64.deb) ...
+Vormals nicht ausgewähltes Paket libqt4-opengl-dev wird gewählt.
+Entpacken von libqt4-opengl-dev (aus .../libqt4-opengl-dev_4%3a4.8.2+dfsg-11_amd64.deb) ...
+Vormals nicht ausgewähltes Paket libqtwebkit-dev wird gewählt.
+Entpacken von libqtwebkit-dev (aus .../libqtwebkit-dev_2.2.1-5_amd64.deb) ...
+Trigger für man-db werden verarbeitet ...
+libqt4-dev-bin (4:4.8.2+dfsg-11) wird eingerichtet ...
+update-alternatives: /usr/bin/moc-qt4 wird verwendet, um /usr/bin/moc (moc) im Auto-Modus bereitzustellen
+update-alternatives: /usr/bin/uic-qt4 wird verwendet, um /usr/bin/uic (uic) im Auto-Modus bereitzustellen
+update-alternatives: Warnung: Erstellung von /usr/share/man/man1/uic.1.gz wird übersprungen, weil die zugehörige Datei /usr/share/man/man1/uic-qt4.1.gz (der Link-Gruppe uic) nicht existiert
+qt4-linguist-tools (4:4.8.2+dfsg-11) wird eingerichtet ...
+update-alternatives: /usr/bin/lupdate-qt4 wird verwendet, um /usr/bin/lupdate (lupdate) im Auto-Modus bereitzustellen
+update-alternatives: /usr/bin/lrelease-qt4 wird verwendet, um /usr/bin/lrelease (lrelease) im Auto-Modus bereitzustellen
+qt4-qmake (4:4.8.2+dfsg-11) wird eingerichtet ...
+update-alternatives: /usr/bin/qmake-qt4 wird verwendet, um /usr/bin/qmake (qmake) im Auto-Modus bereitzustellen
+libqt4-dev (4:4.8.2+dfsg-11) wird eingerichtet ...
+libqt4-opengl-dev (4:4.8.2+dfsg-11) wird eingerichtet ...
+libqtwebkit-dev (2.2.1-5) wird eingerichtet ...
+                                    
+fohl@FOHL-PC02:wonder3.1.9$ scons wfs=1
+scons: Reading SConscript files ...
+
+========== WONDER 3.1.9 ========== 
+
+scons: warning: The Options class is deprecated; use the Variables class instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 148, in <module>
+
+scons: warning: The BoolOption() function is deprecated; use the BoolVariable() function instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 150, in <module>
+
+scons: warning: The EnumOption() function is deprecated; use the EnumVariable() function instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 163, in <module>
+
+scons: warning: The PathOption() function is deprecated; use the PathVariable() function instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 164, in <module>
+
+scons: warning: BuildDir() and the build_dir keyword have been deprecated;
+	use VariantDir() and the variant_dir keyword instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 176, in <module>
+pkg-config installed? (cached) yes
+libxml++-2.6 installed? yes
+liblo installed? (cached) yes
+svn: ».« ist keine Arbeitskopie
+Wonder library	[Yes]
+
+scons: warning: The env.Copy() method is deprecated; use the env.Clone() method instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 364, in <module>
+jackpp library	[Yes]
+cwonder		[Yes]
+twonder		[Yes]
+fwonder		[No]
+xwonder		[Yes]
+
+scons: warning: QTDIR variable is not defined, using moc executable as a hint (QTDIR=None)
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/tools/qt4tool/qt4.py", line 203, in _detect
+scoreplayer	[Yes]
+jfwonder	[Yes]
+tracker		[No]
+qfwonder	[No]
+build		[release]
+scons: done reading SConscript files.
+scons: Building targets ...
+build_config_h(["src/include/config.h"], ["src/include/config.h.in"])
+
+ Generating config.h with the following settings: 
+    install_directory    /usr/local 
+    build                release 
+    version_str          3.1.9 
+
+g++ -o obj/cwonder/main.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/cwonder/main.cpp
+g++ -o obj/cwonder/cwonder.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/cwonder/cwonder.cpp
+g++ -o obj/cwonder/cwonder_config.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/cwonder/cwonder_config.cpp
+g++ -o obj/cwonder/oscinctrl.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/cwonder/oscinctrl.cpp
+g++ -o obj/cwonder/events.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/cwonder/events.cpp
+g++ -o obj/cwonder/oscstream.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/cwonder/oscstream.cpp
+g++ -o obj/cwonder/oscping.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/cwonder/oscping.cpp
+g++ -o obj/lib/oscin.os -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -fPIC -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/lib/oscin.cpp
+g++ -o obj/lib/speakersegment.os -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -fPIC -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/lib/speakersegment.cpp
+g++ -o obj/lib/liblo_extended.os -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -fPIC -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/lib/liblo_extended.cpp
+g++ -o obj/lib/timestamp.os -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -fPIC -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/lib/timestamp.cpp
+g++ -o obj/lib/wonder_log.os -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -fPIC -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/lib/wonder_log.cpp
+g++ -o obj/lib/wonder_path.os -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -fPIC -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/lib/wonder_path.cpp
+g++ -o obj/lib/project.os -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -fPIC -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/lib/project.cpp
+g++ -o obj/lib/rtcommandengine.os -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -fPIC -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/lib/rtcommandengine.cpp
+In file included from src/include/commandqueue.h:38:0,
+                 from src/include/rtcommandengine.h:32,
+                 from src/lib/rtcommandengine.cpp:29:
+src/include/jackringbuffer.h:32:29: fatal error: jack/ringbuffer.h: No such file or directory
+compilation terminated.
+scons: *** [obj/lib/rtcommandengine.os] Error 1
+scons: building terminated because of errors.
+fohl@FOHL-PC02:wonder3.1.9$ aptitude search jack
+p   alsaplayer-jack                 - PCM-Player für ALSA (JACK-Ausgabe-Modul)  
+p   alsaplayer-jack:i386            - PCM-Player für ALSA (JACK-Ausgabe-Modul)  
+p   azr3-jack                       - drawbar organ simulator                   
+p   azr3-jack:i386                  - drawbar organ simulator                   
+p   dssi-host-jack                  - Example of DSSI host                      
+p   dssi-host-jack:i386             - Example of DSSI host                      
+p   fxcyberjack                     - Graphical diagnostics and maintenance tool
+p   fxcyberjack:i386                - Graphical diagnostics and maintenance tool
+p   gjacktransport                  - access to the JACK's transport mechanism a
+p   gjacktransport:i386             - access to the JACK's transport mechanism a
+p   jack                            - Liest und encodiert CDs mit einem Kommando
+p   jack:i386                       - Liest und encodiert CDs mit einem Kommando
+p   jack-capture                    - program for recording soundfiles with jack
+p   jack-capture:i386               - program for recording soundfiles with jack
+v   jack-daemon                     -                                           
+v   jack-daemon:i386                -                                           
+p   jack-keyboard                   - Virtual MIDI keyboard for JACK MIDI       
+p   jack-keyboard:i386              - Virtual MIDI keyboard for JACK MIDI       
+p   jack-mixer                      - JACK Audio Mixer                          
+p   jack-mixer:i386                 - JACK Audio Mixer                          
+i   jack-rack                       - LADSPA Effekte »Rack« für JACK            
+p   jack-rack:i386                  - LADSPA Effekte »Rack« für JACK            
+p   jack-stdio                      - program to pipe audio-data from and to JAC
+p   jack-stdio:i386                 - program to pipe audio-data from and to JAC
+i   jack-tools                      - various JACK tools: dl, record, scope, osc
+p   jack-tools:i386                 - various JACK tools: dl, record, scope, osc
+i   jackd                           - JACK-Audio-Verbindungs-Kit (Standard-Serve
+v   jackd-firewire                  -                                           
+v   jackd-firewire:i386             -                                           
+p   jackd1                          - JACK Audio Connection Kit (Server und Beis
+p   jackd1:i386                     - JACK Audio Connection Kit (Server und Beis
+p   jackd1-firewire                 - JACK Audio Connection Kit (FFADO backend) 
+p   jackd1-firewire:i386            - JACK Audio Connection Kit (FFADO backend) 
+i A jackd2                          - JACK Audio Connection Kit (Server und Beis
+p   jackd2:i386                     - JACK Audio Connection Kit (Server und Beis
+i A jackd2-firewire                 - JACK Audio Connection Kit (die Backends FF
+p   jackd2-firewire:i386            - JACK Audio Connection Kit (die Backends FF
+i   jackeq                          - routes and manipulates audio from/to multi
+p   jackeq:i386                     - routes and manipulates audio from/to multi
+p   jackmeter                       - a basic command line meter for the JACK au
+p   jackmeter:i386                  - a basic command line meter for the JACK au
+p   jacksum                         - computes checksums, CRCs and message diges
+i   jacktrip                        - A System for High-Quality Audio Network Pe
+p   jacktrip:i386                   - A System for High-Quality Audio Network Pe
+p   libbio2jack0                    - oss/alsa to jack porting lib - runtime fil
+p   libbio2jack0:i386               - oss/alsa to jack porting lib - runtime fil
+p   libbio2jack0-dev                - oss/alsa to jack porting lib - development
+p   libbio2jack0-dev:i386           - oss/alsa to jack porting lib - development
+p   libbjack-ocaml                  - OCaml blocking interface to jack audio con
+p   libbjack-ocaml:i386             - OCaml blocking interface to jack audio con
+v   libbjack-ocaml-1hbn1:i386       -                                           
+p   libbjack-ocaml-dev              - OCaml blocking interface to jack audio con
+p   libbjack-ocaml-dev:i386         - OCaml blocking interface to jack audio con
+v   libbjack-ocaml-dev-1hbn1:i386   -                                           
+v   libbjack-ocaml-dev-errl5        -                                           
+v   libbjack-ocaml-errl5            -                                           
+p   libifd-cyberjack6               - REINER SCT cyberJack USB chipcard reader u
+p   libifd-cyberjack6:i386          - REINER SCT cyberJack USB chipcard reader u
+v   libjack-0.116                   -                                           
+v   libjack-0.116:i386              -                                           
+p   libjack-dev                     - JACK Audio Connection Kit (Entwicklungsdat
+p   libjack-dev:i386                - JACK Audio Connection Kit (Entwicklungsdat
+v   libjack-dev-session             -                                           
+v   libjack-dev-session:i386        -                                           
+i A libjack-jackd2-0                - JACK: Bausatz für Audio-Verbindungen (Bibl
+p   libjack-jackd2-0:i386           - JACK: Bausatz für Audio-Verbindungen (Bibl
+p   libjack-jackd2-dev              - JACK Audio Connection Kit (Entwicklungsdat
+p   libjack-jackd2-dev:i386         - JACK Audio Connection Kit (Entwicklungsdat
+p   libjack0                        - JACK: Bausatz für Audio-Verbindungen (Bibl
+p   libjack0:i386                   - JACK: Bausatz für Audio-Verbindungen (Bibl
+v   libjack0.100.0-dev              -                                           
+v   libjack0.100.0-dev:i386         -                                           
+p   libjackrabbit-java              - content repository implementation (JCR API
+p   libjackson-json-java            - streaming fast powerful standard conforman
+p   libjackson-json-java-doc        - standard conformant json processor in java
+p   liquidsoap-plugin-jack          - audio streaming language -- JACK plugin   
+p   liquidsoap-plugin-jack:i386     - audio streaming language -- JACK plugin   
+p   projectm-jack                   - projectM JackAudio module                 
+p   projectm-jack:i386              - projectM JackAudio module                 
+p   pulseaudio-module-jack          - jackd-Module für den Audioserver PulseAudi
+p   pulseaudio-module-jack:i386     - jackd-Module für den Audioserver PulseAudi
+p   pulseaudio-module-jack-dbg      - jackd modules for PulseAudio sound server 
+p   pulseaudio-module-jack-dbg:i386 - jackd modules for PulseAudio sound server 
+i   qjackctl                        - Benutzerschnittstelle zur Kontrolle des JA
+p   qjackctl:i386                   - Benutzerschnittstelle zur Kontrolle des JA
+p   qjackrcd                        - Qt4 application to record JACK server outp
+p   qjackrcd:i386                   - Qt4 application to record JACK server outp
+p   silentjack                      - silence detector for the JACK audio system
+p   silentjack:i386                 - silence detector for the JACK audio system
+p   slv2-jack                       - Jack support for LV2 plugins              
+p   slv2-jack:i386                  - Jack support for LV2 plugins              
+p   snd-gtk-jack                    - Sound file editor (GTK+ user interface - J
+p   snd-gtk-jack:i386               - Sound file editor (GTK+ user interface - J
+p   tuxguitar-jack                  - tuxguitar plugin for sound playback using 
+p   tuxguitar-jack:i386             - tuxguitar plugin for sound playback using 
+p   vlc-plugin-jack                 - JACK-Audioausgabe-Erweiterungen für VLC   
+p   vlc-plugin-jack:i386            - JACK-Audioausgabe-Erweiterungen für VLC   
+p   xmms2-plugin-jack               - XMMS2 - JACK-Ausgabe                      
+p   xmms2-plugin-jack:i386          - XMMS2 - JACK-Ausgabe                      
+p   zynjacku                        - JACK based host for LV2 synths and LV2 plu
+p   zynjacku:i386                   - JACK based host for LV2 synths and LV2 plu
+fohl@FOHL-PC02:wonder3.1.9$ sudo aptitude install libjack-jackd2-dev
+Die folgenden NEUEN Pakete werden zusätzlich installiert:
+  libdbus-1-dev{a} libjack-jackd2-dev 
+0 Pakete aktualisiert, 2 zusätzlich installiert, 0 werden entfernt und 335 nicht aktualisiert.
+338 kB an Archiven müssen heruntergeladen werden. Nach dem Entpacken werden 1.171 kB zusätzlich belegt sein.
+Möchten Sie fortsetzen? [Y/n/?] 
+Holen: 1 http://ftp.de.debian.org/debian/ testing/main libdbus-1-dev amd64 1.6.8-1 [246 kB]
+Holen: 2 http://ftp.de.debian.org/debian/ testing/main libjack-jackd2-dev amd64 1.9.8~dfsg.4+20120529git007cdc37-5 [92,1 kB]
+338 kB wurden in 0 s heruntergeladen (394 kB/s)
+Vormals nicht ausgewähltes Paket libdbus-1-dev wird gewählt.
+(Lese Datenbank ... 430724 Dateien und Verzeichnisse sind derzeit installiert.)
+Entpacken von libdbus-1-dev (aus .../libdbus-1-dev_1.6.8-1_amd64.deb) ...
+Vormals nicht ausgewähltes Paket libjack-jackd2-dev:amd64 wird gewählt.
+Entpacken von libjack-jackd2-dev:amd64 (aus .../libjack-jackd2-dev_1.9.8~dfsg.4+20120529git007cdc37-5_amd64.deb) ...
+libdbus-1-dev (1.6.8-1) wird eingerichtet ...
+libjack-jackd2-dev:amd64 (1.9.8~dfsg.4+20120529git007cdc37-5) wird eingerichtet ...
+[FEHL] Paketlisten werden gelesen
+E: Problem beim Umbenennen der Datei /var/cache/apt/pkgcache.bin.iNkz8m nach /var/cache/apt/pkgcache.bin - rename (2: Datei oder Verzeichnis nicht gefunden)
+W: Sie sollten vielleicht die Paketlisten aktualisieren, um die fehlenden Dateien zu ergänzen.
+                                    
+Aktueller Status: 341 aktualisierbare Pakete [+6], 23685 Neue [+206].
+W: Zwischenspeicher-Datei konnte nicht gesperrt werden. Das bedeutet in der Regel, dass dpkg oder ein anderes APT-Werkzeug bereits Pakete installiert. Öffnen im Nur-Lesen-Modus. Alle Änderungen, die Sie am Status von Paketen durchführen, werden VERLOREN gehen!
+fohl@FOHL-PC02:wonder3.1.9$ sudo aptitude install libjack-jackd2-dev
+Es werden keine Pakete installiert, aktualisiert oder entfernt.
+0 Pakete aktualisiert, 0 zusätzlich installiert, 0 werden entfernt und 341 nicht aktualisiert.
+0 B an Archiven müssen heruntergeladen werden. Nach dem Entpacken werden 0 B zusätzlich belegt sein.
+                                    
+fohl@FOHL-PC02:wonder3.1.9$ sudo aptitude install libjack-dev
+Die folgenden NEUEN Pakete werden zusätzlich installiert:
+  libjack-dev libjack0{ab} 
+0 Pakete aktualisiert, 2 zusätzlich installiert, 0 werden entfernt und 341 nicht aktualisiert.
+420 kB an Archiven müssen heruntergeladen werden. Nach dem Entpacken werden 1.987 kB zusätzlich belegt sein.
+Die folgenden Pakete haben verletzte Abhängigkeiten:
+ libjack-jackd2-dev : Kollidiert mit: libjack-dev aber 1:0.121.3+20120418git75e3e20b-2.1 soll installiert werden.
+ libjack0 : Kollidiert mit: libjack-0.116, welches ein virtuelles Paket ist.
+ libjack-jackd2-0 : Kollidiert mit: libjack-0.116, welches ein virtuelles Paket ist.
+                    Kollidiert mit: libjack0 aber 1:0.121.3+20120418git75e3e20b-2.1 soll installiert werden.
+Die folgenden Aktionen werden diese Abhängigkeiten auflösen:
+
+      Entfernen der folgenden Pakete:                 
+1)      ardour                                        
+2)      freqtweak                                     
+3)      jack-rack                                     
+4)      jack-tools                                    
+5)      jackd                                         
+6)      jackd2                                        
+7)      jackd2-firewire                               
+8)      jamin                                         
+9)      libjack-jackd2-0                              
+10)     libjack-jackd2-dev                            
+11)     meterbridge                                   
+12)     qjackctl                                      
+13)     supercollider                                 
+14)     supercollider-emacs                           
+15)     supercollider-server                          
+
+      Die folgenden Abhängigkeiten unaufgelöst lassen:
+16)     jackeq empfiehlt jackd                        
+17)     rosegarden empfiehlt jackd                    
+
+
+Diese Lösung akzeptieren? [Y/n/q/?] y
+Die folgenden NEUEN Pakete werden zusätzlich installiert:
+  libjack-dev libjack0{a} 
+Die folgenden Pakete werden ENTFERNT:
+  ardour{a} freqtweak{a} jack-rack{a} jack-tools{a} jackd{a} jackd2{a} 
+  jackd2-firewire{a} jamin{a} libdbus-1-dev{u} libjack-jackd2-0{a} 
+  libjack-jackd2-dev{a} libsigc++-1.2-5c2{u} meterbridge{a} qjackctl{a} 
+  supercollider{a} supercollider-emacs{a} supercollider-server{a} 
+0 Pakete aktualisiert, 2 zusätzlich installiert, 17 werden entfernt und 338 nicht aktualisiert.
+420 kB an Archiven müssen heruntergeladen werden. Nach dem Entpacken werden 26,7 MB frei werden.
+Möchten Sie fortsetzen? [Y/n/?] n
+Abbruch.
+fohl@FOHL-PC02:wonder3.1.9$ scons wfs=1
+scons: Reading SConscript files ...
+
+========== WONDER 3.1.9 ========== 
+
+scons: warning: The Options class is deprecated; use the Variables class instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 148, in <module>
+
+scons: warning: The BoolOption() function is deprecated; use the BoolVariable() function instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 150, in <module>
+
+scons: warning: The EnumOption() function is deprecated; use the EnumVariable() function instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 163, in <module>
+
+scons: warning: The PathOption() function is deprecated; use the PathVariable() function instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 164, in <module>
+
+scons: warning: BuildDir() and the build_dir keyword have been deprecated;
+	use VariantDir() and the variant_dir keyword instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 176, in <module>
+pkg-config installed? (cached) yes
+libxml++-2.6 installed? (cached) yes
+liblo installed? (cached) yes
+svn: ».« ist keine Arbeitskopie
+Wonder library	[Yes]
+
+scons: warning: The env.Copy() method is deprecated; use the env.Clone() method instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 364, in <module>
+jackpp library	[Yes]
+cwonder		[Yes]
+twonder		[Yes]
+fwonder		[No]
+xwonder		[Yes]
+
+scons: warning: QTDIR variable is not defined, using moc executable as a hint (QTDIR=None)
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/tools/qt4tool/qt4.py", line 203, in _detect
+scoreplayer	[Yes]
+jfwonder	[Yes]
+tracker		[No]
+qfwonder	[No]
+build		[release]
+scons: done reading SConscript files.
+scons: Building targets ...
+g++ -o obj/lib/rtcommandengine.os -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -fPIC -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/lib/rtcommandengine.cpp
+g++ -o obj/lib/commandqueue.os -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -fPIC -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/lib/commandqueue.cpp
+g++ -o obj/lib/jackringbuffer.os -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -fPIC -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/lib/jackringbuffer.cpp
+g++ -o bin/libwonder3.so -shared -Wl,-rpath=\$ORIGIN obj/lib/oscin.os obj/lib/speakersegment.os obj/lib/liblo_extended.os obj/lib/timestamp.os obj/lib/wonder_log.os obj/lib/wonder_path.os obj/lib/project.os obj/lib/rtcommandengine.os obj/lib/commandqueue.os obj/lib/jackringbuffer.os -lxml++-2.6 -lxml2 -lglibmm-2.4 -lgobject-2.0 -lsigc-2.0 -lglib-2.0 -llo -lpthread -lGLU -lGL -ljack
+g++ -o bin/cwonder3 -Wl,-rpath=\$ORIGIN obj/cwonder/main.o obj/cwonder/cwonder.o obj/cwonder/cwonder_config.o obj/cwonder/oscinctrl.o obj/cwonder/events.o obj/cwonder/oscstream.o obj/cwonder/oscping.o -Lbin -lxml++-2.6 -lxml2 -lglibmm-2.4 -lgobject-2.0 -lsigc-2.0 -lglib-2.0 -llo -lpthread -lGLU -lGL -lwonder3
+g++ -o obj/jfwonder/jfwonder.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/jfwonder/jfwonder.cpp
+src/jfwonder/jfwonder.cpp: In function 'int main(int, char**)':
+src/jfwonder/jfwonder.cpp:311:25: warning: 'jack_client_t* jack_client_new(const char*)' is deprecated (declared at /usr/include/jack/jack.h:127) [-Wdeprecated-declarations]
+src/jfwonder/jfwonder.cpp:311:53: warning: 'jack_client_t* jack_client_new(const char*)' is deprecated (declared at /usr/include/jack/jack.h:127) [-Wdeprecated-declarations]
+g++ -o obj/jfwonder/jfwonder_config.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/jfwonder/jfwonder_config.cpp
+g++ -o bin/jfwonder3 -Wl,-rpath=\$ORIGIN obj/jfwonder/jfwonder.o obj/jfwonder/jfwonder_config.o -Lbin -lxml++-2.6 -lxml2 -lglibmm-2.4 -lgobject-2.0 -lsigc-2.0 -lglib-2.0 -llo -lpthread -lGLU -lGL -lwonder3
+g++ -o obj/jackpp/jackppclient.os -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -fPIC -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/jackpp/jackppclient.cpp
+In file included from src/jackpp/jackppport.h:69:0,
+                 from src/jackpp/jackppclient.h:30,
+                 from src/jackpp/jackppclient.cpp:21:
+src/jackpp/jackppport.inl: In member function 'jack_nframes_t jackpp::Port::getLatency() const':
+src/jackpp/jackppport.inl:86:12: warning: 'jack_nframes_t jack_port_get_latency(jack_port_t*)' is deprecated (declared at /usr/include/jack/jack.h:1172) [-Wdeprecated-declarations]
+src/jackpp/jackppport.inl:86:43: warning: 'jack_nframes_t jack_port_get_latency(jack_port_t*)' is deprecated (declared at /usr/include/jack/jack.h:1172) [-Wdeprecated-declarations]
+src/jackpp/jackppclient.cpp: In member function 'bool jackpp::Client::connect(const char*)':
+src/jackpp/jackppclient.cpp:109:19: warning: 'jack_client_t* jack_client_new(const char*)' is deprecated (declared at /usr/include/jack/jack.h:127) [-Wdeprecated-declarations]
+src/jackpp/jackppclient.cpp:109:47: warning: 'jack_client_t* jack_client_new(const char*)' is deprecated (declared at /usr/include/jack/jack.h:127) [-Wdeprecated-declarations]
+g++ -o obj/jackpp/jackppport.os -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -fPIC -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/jackpp/jackppport.cpp
+In file included from src/jackpp/jackppport.h:69:0,
+                 from src/jackpp/jackppport.cpp:21:
+src/jackpp/jackppport.inl: In member function 'jack_nframes_t jackpp::Port::getLatency() const':
+src/jackpp/jackppport.inl:86:12: warning: 'jack_nframes_t jack_port_get_latency(jack_port_t*)' is deprecated (declared at /usr/include/jack/jack.h:1172) [-Wdeprecated-declarations]
+src/jackpp/jackppport.inl:86:43: warning: 'jack_nframes_t jack_port_get_latency(jack_port_t*)' is deprecated (declared at /usr/include/jack/jack.h:1172) [-Wdeprecated-declarations]
+g++ -o bin/libjackpp.so -shared obj/jackpp/jackppclient.os obj/jackpp/jackppport.os -lxml++-2.6 -lxml2 -lglibmm-2.4 -lgobject-2.0 -lsigc-2.0 -lglib-2.0 -llo -lpthread -lGLU -lGL -ljack
+g++ -o obj/score/main.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -D__LINUX_ALSASEQ__ -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/score/main.cpp
+g++ -o obj/score/mtc_com.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -D__LINUX_ALSASEQ__ -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/score/mtc_com.cpp
+g++ -o obj/score/w_osc.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -D__LINUX_ALSASEQ__ -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/score/w_osc.cpp
+src/score/w_osc.cpp: In static member function 'static int W_Osc::source_position_handler(const char*, const char*, lo_arg**, int, lo_message, void*)':
+src/score/w_osc.cpp:412:9: warning: variable 'status' set but not used [-Wunused-but-set-variable]
+g++ -o obj/score/score_line.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -D__LINUX_ALSASEQ__ -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/score/score_line.cpp
+g++ -o obj/score/file_io.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -D__LINUX_ALSASEQ__ -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/score/file_io.cpp
+g++ -o obj/score/scoresaxparser.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -D__LINUX_ALSASEQ__ -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/score/scoresaxparser.cpp
+g++ -o obj/score/scorecontrol.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -D__LINUX_ALSASEQ__ -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/score/scorecontrol.cpp
+g++ -o obj/score/scoreplayer_config.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -D__LINUX_ALSASEQ__ -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/score/scoreplayer_config.cpp
+g++ -o obj/score/rtmidi/RtMidi.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -D__LINUX_ALSASEQ__ -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include src/score/rtmidi/RtMidi.cpp
+g++ -o bin/scoreplayer3 -Wl,-rpath=\$ORIGIN obj/score/main.o obj/score/mtc_com.o obj/score/w_osc.o obj/score/score_line.o obj/score/file_io.o obj/score/scoresaxparser.o obj/score/scorecontrol.o obj/score/scoreplayer_config.o obj/score/rtmidi/RtMidi.o -Lbin -lxml++-2.6 -lxml2 -lglibmm-2.4 -lgobject-2.0 -lsigc-2.0 -lglib-2.0 -llo -lpthread -lGLU -lGL -lwonder3 -lpthread -lasound
+g++ -o obj/render/twonder/twonder.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -Isrc/jackpp src/render/twonder/twonder.cpp
+In file included from src/jackpp/jackppport.h:69:0,
+                 from src/jackpp/jackppclient.h:30,
+                 from src/render/twonder/speaker.h:35,
+                 from src/render/twonder/twonder.cpp:40:
+src/jackpp/jackppport.inl: In member function 'jack_nframes_t jackpp::Port::getLatency() const':
+src/jackpp/jackppport.inl:86:12: warning: 'jack_nframes_t jack_port_get_latency(jack_port_t*)' is deprecated (declared at /usr/include/jack/jack.h:1172) [-Wdeprecated-declarations]
+src/jackpp/jackppport.inl:86:43: warning: 'jack_nframes_t jack_port_get_latency(jack_port_t*)' is deprecated (declared at /usr/include/jack/jack.h:1172) [-Wdeprecated-declarations]
+g++ -o obj/render/twonder/delayline.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -Isrc/jackpp src/render/twonder/delayline.cpp
+g++ -o obj/render/twonder/delaycoeff.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -Isrc/jackpp src/render/twonder/delaycoeff.cpp
+g++ -o obj/render/twonder/speaker.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -Isrc/jackpp src/render/twonder/speaker.cpp
+In file included from src/jackpp/jackppport.h:69:0,
+                 from src/jackpp/jackppclient.h:30,
+                 from src/render/twonder/speaker.h:35,
+                 from src/render/twonder/speaker.cpp:29:
+src/jackpp/jackppport.inl: In member function 'jack_nframes_t jackpp::Port::getLatency() const':
+src/jackpp/jackppport.inl:86:12: warning: 'jack_nframes_t jack_port_get_latency(jack_port_t*)' is deprecated (declared at /usr/include/jack/jack.h:1172) [-Wdeprecated-declarations]
+src/jackpp/jackppport.inl:86:43: warning: 'jack_nframes_t jack_port_get_latency(jack_port_t*)' is deprecated (declared at /usr/include/jack/jack.h:1172) [-Wdeprecated-declarations]
+g++ -o obj/render/twonder/osc.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -Isrc/jackpp src/render/twonder/osc.cpp
+g++ -o obj/render/twonder/source.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -Isrc/jackpp src/render/twonder/source.cpp
+In file included from src/jackpp/jackppport.h:69:0,
+                 from src/jackpp/jackppclient.h:30,
+                 from src/render/twonder/speaker.h:35,
+                 from src/render/twonder/source.cpp:31:
+src/jackpp/jackppport.inl: In member function 'jack_nframes_t jackpp::Port::getLatency() const':
+src/jackpp/jackppport.inl:86:12: warning: 'jack_nframes_t jack_port_get_latency(jack_port_t*)' is deprecated (declared at /usr/include/jack/jack.h:1172) [-Wdeprecated-declarations]
+src/jackpp/jackppport.inl:86:43: warning: 'jack_nframes_t jack_port_get_latency(jack_port_t*)' is deprecated (declared at /usr/include/jack/jack.h:1172) [-Wdeprecated-declarations]
+g++ -o obj/render/twonder/angle.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -Isrc/jackpp src/render/twonder/angle.cpp
+g++ -o obj/render/twonder/twonder_config.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DNDEBUG -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -Isrc/jackpp src/render/twonder/twonder_config.cpp
+g++ -o bin/twonder3 -Wl,-rpath=\$ORIGIN obj/render/twonder/twonder.o obj/render/twonder/delayline.o obj/render/twonder/delaycoeff.o obj/render/twonder/speaker.o obj/render/twonder/osc.o obj/render/twonder/source.o obj/render/twonder/angle.o obj/render/twonder/twonder_config.o -Lbin -lxml++-2.6 -lxml2 -lglibmm-2.4 -lgobject-2.0 -lsigc-2.0 -lglib-2.0 -llo -lpthread -lGLU -lGL -lwonder3 -ljackpp
+g++ -o obj/xwonder/Xwonder.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml src/xwonder/Xwonder.cpp
+g++ -o obj/xwonder/XwonderMainWindow.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml src/xwonder/XwonderMainWindow.cpp
+src/xwonder/XwonderMainWindow.cpp: In member function 'void XwonderMainWindow::sendOSCSourceType(unsigned int, bool)':
+src/xwonder/XwonderMainWindow.cpp:497:23: warning: variable 'coords' set but not used [-Wunused-but-set-variable]
+In file included from src/xwonder/Source.h:34:0,
+                 from src/xwonder/XwonderMainWindow.cpp:56:
+src/xwonder/colors.h: At global scope:
+src/xwonder/colors.h:46:12: warning: 'noColors' defined but not used [-Wunused-variable]
+src/xwonder/colors.h:78:16: warning: 'colors' defined but not used [-Wunused-variable]
+g++ -o obj/xwonder/XwonderConfig.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml src/xwonder/XwonderConfig.cpp
+g++ -o obj/xwonder/Sources3DWidget.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml src/xwonder/Sources3DWidget.cpp
+g++ -o obj/xwonder/SourcePositionDialog.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml src/xwonder/SourcePositionDialog.cpp
+In file included from src/xwonder/Source.h:34:0,
+                 from src/xwonder/SourcePositionDialog.cpp:26:
+src/xwonder/colors.h:46:12: warning: 'noColors' defined but not used [-Wunused-variable]
+src/xwonder/colors.h:78:16: warning: 'colors' defined but not used [-Wunused-variable]
+g++ -o obj/xwonder/ChannelsWidget.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml src/xwonder/ChannelsWidget.cpp
+g++ -o obj/xwonder/SourceWidget.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml src/xwonder/SourceWidget.cpp
+In file included from src/xwonder/SourceWidget.h:28:0,
+                 from src/xwonder/SourceWidget.cpp:24:
+src/xwonder/colors.h:46:12: warning: 'noColors' defined but not used [-Wunused-variable]
+g++ -o obj/xwonder/Source.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml src/xwonder/Source.cpp
+In file included from src/xwonder/Source.h:34:0,
+                 from src/xwonder/Source.cpp:25:
+src/xwonder/colors.h:46:12: warning: 'noColors' defined but not used [-Wunused-variable]
+g++ -o obj/xwonder/SourceGroup.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml src/xwonder/SourceGroup.cpp
+In file included from src/xwonder/SourceGroup.h:32:0,
+                 from src/xwonder/SourceGroup.cpp:24:
+src/xwonder/colors.h:46:12: warning: 'noColors' defined but not used [-Wunused-variable]
+g++ -o obj/xwonder/TimelineWidget.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml src/xwonder/TimelineWidget.cpp
+g++ -o obj/xwonder/TimeLCDNumber.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml src/xwonder/TimeLCDNumber.cpp
+g++ -o obj/xwonder/SnapshotSelector.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml src/xwonder/SnapshotSelector.cpp
+g++ -o obj/xwonder/SnapshotSelectorButton.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml src/xwonder/SnapshotSelectorButton.cpp
+g++ -o obj/xwonder/SnapshotNameDialog.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml src/xwonder/SnapshotNameDialog.cpp
+g++ -o obj/xwonder/OSCReceiver.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml src/xwonder/OSCReceiver.cpp
+g++ -o obj/xwonder/FilenameDialog.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml src/xwonder/FilenameDialog.cpp
+g++ -o obj/xwonder/AddChannelsDialog.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml src/xwonder/AddChannelsDialog.cpp
+g++ -o obj/xwonder/StreamClientWidget.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml src/xwonder/StreamClientWidget.cpp
+g++ -o obj/lib/oscin.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml src/lib/oscin.cpp
+/usr/bin/rcc src/xwonder/icons.qrc -o obj/xwonder/qrc_icons.cc
+g++ -o obj/xwonder/qrc_icons.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml obj/xwonder/qrc_icons.cc
+/usr/bin/moc-qt4 -o obj/xwonder/moc_XwonderMainWindow.cc src/xwonder/XwonderMainWindow.h
+g++ -o obj/xwonder/moc_XwonderMainWindow.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml obj/xwonder/moc_XwonderMainWindow.cc
+/usr/bin/moc-qt4 -o obj/xwonder/moc_XwonderConfig.cc src/xwonder/XwonderConfig.h
+g++ -o obj/xwonder/moc_XwonderConfig.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml obj/xwonder/moc_XwonderConfig.cc
+/usr/bin/moc-qt4 -o obj/xwonder/moc_Sources3DWidget.cc src/xwonder/Sources3DWidget.h
+g++ -o obj/xwonder/moc_Sources3DWidget.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml obj/xwonder/moc_Sources3DWidget.cc
+/usr/bin/moc-qt4 -o obj/xwonder/moc_SourcePositionDialog.cc src/xwonder/SourcePositionDialog.h
+g++ -o obj/xwonder/moc_SourcePositionDialog.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml obj/xwonder/moc_SourcePositionDialog.cc
+/usr/bin/moc-qt4 -o obj/xwonder/moc_ChannelsWidget.cc src/xwonder/ChannelsWidget.h
+g++ -o obj/xwonder/moc_ChannelsWidget.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml obj/xwonder/moc_ChannelsWidget.cc
+/usr/bin/moc-qt4 -o obj/xwonder/moc_SourceWidget.cc src/xwonder/SourceWidget.h
+g++ -o obj/xwonder/moc_SourceWidget.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml obj/xwonder/moc_SourceWidget.cc
+In file included from obj/xwonder/../../src/xwonder/SourceWidget.h:28:0,
+                 from obj/xwonder/moc_SourceWidget.cc:10:
+obj/xwonder/../../src/xwonder/colors.h:46:12: warning: 'noColors' defined but not used [-Wunused-variable]
+obj/xwonder/../../src/xwonder/colors.h:78:16: warning: 'colors' defined but not used [-Wunused-variable]
+/usr/bin/moc-qt4 -o obj/xwonder/moc_Source.cc src/xwonder/Source.h
+g++ -o obj/xwonder/moc_Source.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml obj/xwonder/moc_Source.cc
+In file included from obj/xwonder/../../src/xwonder/Source.h:34:0,
+                 from obj/xwonder/moc_Source.cc:10:
+obj/xwonder/../../src/xwonder/colors.h:46:12: warning: 'noColors' defined but not used [-Wunused-variable]
+obj/xwonder/../../src/xwonder/colors.h:78:16: warning: 'colors' defined but not used [-Wunused-variable]
+/usr/bin/moc-qt4 -o obj/xwonder/moc_SourceGroup.cc src/xwonder/SourceGroup.h
+g++ -o obj/xwonder/moc_SourceGroup.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml obj/xwonder/moc_SourceGroup.cc
+In file included from obj/xwonder/../../src/xwonder/SourceGroup.h:32:0,
+                 from obj/xwonder/moc_SourceGroup.cc:10:
+obj/xwonder/../../src/xwonder/colors.h:46:12: warning: 'noColors' defined but not used [-Wunused-variable]
+obj/xwonder/../../src/xwonder/colors.h:78:16: warning: 'colors' defined but not used [-Wunused-variable]
+/usr/bin/moc-qt4 -o obj/xwonder/moc_TimelineWidget.cc src/xwonder/TimelineWidget.h
+g++ -o obj/xwonder/moc_TimelineWidget.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml obj/xwonder/moc_TimelineWidget.cc
+/usr/bin/moc-qt4 -o obj/xwonder/moc_TimeLCDNumber.cc src/xwonder/TimeLCDNumber.h
+g++ -o obj/xwonder/moc_TimeLCDNumber.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml obj/xwonder/moc_TimeLCDNumber.cc
+/usr/bin/moc-qt4 -o obj/xwonder/moc_SnapshotSelector.cc src/xwonder/SnapshotSelector.h
+g++ -o obj/xwonder/moc_SnapshotSelector.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml obj/xwonder/moc_SnapshotSelector.cc
+/usr/bin/moc-qt4 -o obj/xwonder/moc_SnapshotSelectorButton.cc src/xwonder/SnapshotSelectorButton.h
+g++ -o obj/xwonder/moc_SnapshotSelectorButton.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml obj/xwonder/moc_SnapshotSelectorButton.cc
+/usr/bin/moc-qt4 -o obj/xwonder/moc_SnapshotNameDialog.cc src/xwonder/SnapshotNameDialog.h
+g++ -o obj/xwonder/moc_SnapshotNameDialog.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml obj/xwonder/moc_SnapshotNameDialog.cc
+/usr/bin/moc-qt4 -o obj/xwonder/moc_OSCReceiver.cc src/xwonder/OSCReceiver.h
+g++ -o obj/xwonder/moc_OSCReceiver.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml obj/xwonder/moc_OSCReceiver.cc
+/usr/bin/moc-qt4 -o obj/xwonder/moc_FilenameDialog.cc src/xwonder/FilenameDialog.h
+g++ -o obj/xwonder/moc_FilenameDialog.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml obj/xwonder/moc_FilenameDialog.cc
+/usr/bin/moc-qt4 -o obj/xwonder/moc_AddChannelsDialog.cc src/xwonder/AddChannelsDialog.h
+g++ -o obj/xwonder/moc_AddChannelsDialog.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml obj/xwonder/moc_AddChannelsDialog.cc
+/usr/bin/moc-qt4 -o obj/xwonder/moc_StreamClientWidget.cc src/xwonder/StreamClientWidget.h
+g++ -o obj/xwonder/moc_StreamClientWidget.o -c -Wall -O3 -march=native -msse -msse2 -msse3 -mfpmath=sse -DQT_GUI_LIB -DNDEBUG -DQT_SHARED -Isrc/include -I/usr/include/libxml2 -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml++-2.6 -I/usr/lib/libxml++-2.6/include -I/usr/include -I/usr/include/qt4 -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml obj/xwonder/moc_StreamClientWidget.cc
+g++ -o bin/xwonder3 obj/xwonder/Xwonder.o obj/xwonder/XwonderMainWindow.o obj/xwonder/XwonderConfig.o obj/xwonder/Sources3DWidget.o obj/xwonder/SourcePositionDialog.o obj/xwonder/ChannelsWidget.o obj/xwonder/SourceWidget.o obj/xwonder/Source.o obj/xwonder/SourceGroup.o obj/xwonder/TimelineWidget.o obj/xwonder/TimeLCDNumber.o obj/xwonder/SnapshotSelector.o obj/xwonder/SnapshotSelectorButton.o obj/xwonder/SnapshotNameDialog.o obj/xwonder/OSCReceiver.o obj/xwonder/FilenameDialog.o obj/xwonder/AddChannelsDialog.o obj/xwonder/StreamClientWidget.o obj/lib/oscin.o obj/xwonder/qrc_icons.o obj/xwonder/moc_XwonderMainWindow.o obj/xwonder/moc_XwonderConfig.o obj/xwonder/moc_Sources3DWidget.o obj/xwonder/moc_SourcePositionDialog.o obj/xwonder/moc_ChannelsWidget.o obj/xwonder/moc_SourceWidget.o obj/xwonder/moc_Source.o obj/xwonder/moc_SourceGroup.o obj/xwonder/moc_TimelineWidget.o obj/xwonder/moc_TimeLCDNumber.o obj/xwonder/moc_SnapshotSelector.o obj/xwonder/moc_SnapshotSelectorButton.o obj/xwonder/moc_SnapshotNameDialog.o obj/xwonder/moc_OSCReceiver.o obj/xwonder/moc_FilenameDialog.o obj/xwonder/moc_AddChannelsDialog.o obj/xwonder/moc_StreamClientWidget.o -L/usr/lib -lxml++-2.6 -lxml2 -lglibmm-2.4 -lgobject-2.0 -lsigc-2.0 -lglib-2.0 -llo -lpthread -lGL -lGLU -lQtOpenGL -lQtGui -lQtXml -lQtCore
+daemon_config_build(["obj/cwonder/cwonder-daemon-config"], ["src/cwonder/cwonder-daemon-config.in"])
+
+ Generating daemon-config with the following settings: 
+    install_directory    /usr/local 
+
+daemon_config_build(["obj/jfwonder/jfwonder-daemon-config"], ["src/jfwonder/jfwonder-daemon-config.in"])
+
+ Generating daemon-config with the following settings: 
+    install_directory    /usr/local 
+
+scons: done building targets.
+fohl@FOHL-PC02:wonder3.1.9$ sudo scons install
+scons: Reading SConscript files ...
+
+========== WONDER 3.1.9 ========== 
+
+scons: warning: The Options class is deprecated; use the Variables class instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 148, in <module>
+
+scons: warning: The BoolOption() function is deprecated; use the BoolVariable() function instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 150, in <module>
+
+scons: warning: The EnumOption() function is deprecated; use the EnumVariable() function instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 163, in <module>
+
+scons: warning: The PathOption() function is deprecated; use the PathVariable() function instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 164, in <module>
+
+scons: warning: BuildDir() and the build_dir keyword have been deprecated;
+	use VariantDir() and the variant_dir keyword instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 176, in <module>
+pkg-config installed? (cached) yes
+liblo installed? yes
+svn: ».« ist keine Arbeitskopie
+Wonder library	[No]
+jackpp library	[No]
+cwonder		[No]
+twonder		[No]
+fwonder		[No]
+xwonder		[No]
+scoreplayer	[No]
+jfwonder	[No]
+tracker		[No]
+qfwonder	[No]
+build		[release]
+install to:	/usr/local
+
+
+scons: done reading SConscript files.
+scons: Building targets ...
+Install file: "wonder.built.info" as "/usr/local/share/wonder3/configs/wonder.built.info"
+scons: done building targets.
+fohl@FOHL-PC02:wonder3.1.9$ which xwonder
+fohl@FOHL-PC02:wonder3.1.9$ sudo scons install wfs=1
+scons: Reading SConscript files ...
+
+========== WONDER 3.1.9 ========== 
+
+scons: warning: The Options class is deprecated; use the Variables class instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 148, in <module>
+
+scons: warning: The BoolOption() function is deprecated; use the BoolVariable() function instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 150, in <module>
+
+scons: warning: The EnumOption() function is deprecated; use the EnumVariable() function instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 163, in <module>
+
+scons: warning: The PathOption() function is deprecated; use the PathVariable() function instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 164, in <module>
+
+scons: warning: BuildDir() and the build_dir keyword have been deprecated;
+	use VariantDir() and the variant_dir keyword instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 176, in <module>
+pkg-config installed? (cached) yes
+libxml++-2.6 installed? yes
+liblo installed? (cached) yes
+svn: ».« ist keine Arbeitskopie
+Wonder library	[Yes]
+
+scons: warning: The env.Copy() method is deprecated; use the env.Clone() method instead.
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/SConstruct", line 364, in <module>
+jackpp library	[Yes]
+cwonder		[Yes]
+twonder		[Yes]
+fwonder		[No]
+xwonder		[Yes]
+
+scons: warning: QTDIR variable is not defined, using moc executable as a hint (QTDIR=None)
+File "/home/fohl/Src/Wonder/Wonder_Waas/wonder3.1.9/tools/qt4tool/qt4.py", line 203, in _detect
+scoreplayer	[Yes]
+jfwonder	[Yes]
+tracker		[No]
+qfwonder	[No]
+Chmod("src/cwonder/cwonder-daemon", 0755)
+Chmod("src/jfwonder/jfwonder-daemon", 0755)
+build		[release]
+install to:	/usr/local
+
+
+scons: done reading SConscript files.
+scons: Building targets ...
+Install file: "wonder.built.info" as "/usr/local/share/wonder3/configs/wonder.built.info"
+Install file: "configs/cwonder_config.xml" as "/usr/local/share/wonder3/configs/cwonder_config.xml"
+Install file: "configs/twonder_config.xml" as "/usr/local/share/wonder3/configs/twonder_config.xml"
+Install file: "configs/twonder_speakerarray.xml" as "/usr/local/share/wonder3/configs/twonder_speakerarray.xml"
+Install file: "configs/scoreplayer_config.xml" as "/usr/local/share/wonder3/configs/scoreplayer_config.xml"
+g++ -o bin/libwonder3.so -shared -Wl,-rpath=/usr/local/lib/ obj/lib/oscin.os obj/lib/speakersegment.os obj/lib/liblo_extended.os obj/lib/timestamp.os obj/lib/wonder_log.os obj/lib/wonder_path.os obj/lib/project.os obj/lib/rtcommandengine.os obj/lib/commandqueue.os obj/lib/jackringbuffer.os -lxml++-2.6 -lxml2 -lglibmm-2.4 -lgobject-2.0 -lsigc-2.0 -lglib-2.0 -llo -lpthread -lGLU -lGL -ljack
+Install file: "bin/libwonder3.so" as "/usr/local/lib/libwonder3.so"
+Install file: "bin/libjackpp.so" as "/usr/local/lib/libjackpp.so"
+g++ -o bin/cwonder3 -Wl,-rpath=/usr/local/lib/ obj/cwonder/main.o obj/cwonder/cwonder.o obj/cwonder/cwonder_config.o obj/cwonder/oscinctrl.o obj/cwonder/events.o obj/cwonder/oscstream.o obj/cwonder/oscping.o -Lbin -lxml++-2.6 -lxml2 -lglibmm-2.4 -lgobject-2.0 -lsigc-2.0 -lglib-2.0 -llo -lpthread -lGLU -lGL -lwonder3
+Install file: "bin/cwonder3" as "/usr/local/bin/cwonder3"
+g++ -o bin/twonder3 -Wl,-rpath=/usr/local/lib/ obj/render/twonder/twonder.o obj/render/twonder/delayline.o obj/render/twonder/delaycoeff.o obj/render/twonder/speaker.o obj/render/twonder/osc.o obj/render/twonder/source.o obj/render/twonder/angle.o obj/render/twonder/twonder_config.o -Lbin -lxml++-2.6 -lxml2 -lglibmm-2.4 -lgobject-2.0 -lsigc-2.0 -lglib-2.0 -llo -lpthread -lGLU -lGL -lwonder3 -ljackpp
+Install file: "bin/twonder3" as "/usr/local/bin/twonder3"
+Install file: "bin/xwonder3" as "/usr/local/bin/xwonder3"
+g++ -o bin/scoreplayer3 -Wl,-rpath=/usr/local/lib/ obj/score/main.o obj/score/mtc_com.o obj/score/w_osc.o obj/score/score_line.o obj/score/file_io.o obj/score/scoresaxparser.o obj/score/scorecontrol.o obj/score/scoreplayer_config.o obj/score/rtmidi/RtMidi.o -Lbin -lxml++-2.6 -lxml2 -lglibmm-2.4 -lgobject-2.0 -lsigc-2.0 -lglib-2.0 -llo -lpthread -lGLU -lGL -lwonder3 -lpthread -lasound
+Install file: "bin/scoreplayer3" as "/usr/local/bin/scoreplayer3"
+g++ -o bin/jfwonder3 -Wl,-rpath=/usr/local/lib/ obj/jfwonder/jfwonder.o obj/jfwonder/jfwonder_config.o -Lbin -lxml++-2.6 -lxml2 -lglibmm-2.4 -lgobject-2.0 -lsigc-2.0 -lglib-2.0 -llo -lpthread -lGLU -lGL -lwonder3
+Install file: "bin/jfwonder3" as "/usr/local/bin/jfwonder3"
+Install file: "dtd/cwonder_project.dtd" as "/usr/local/share/wonder3/dtd/cwonder_project.dtd"
+Install file: "dtd/cwonder_config.dtd" as "/usr/local/share/wonder3/dtd/cwonder_config.dtd"
+Install file: "dtd/twonder_config.dtd" as "/usr/local/share/wonder3/dtd/twonder_config.dtd"
+Install file: "dtd/twonder_speakerarray.dtd" as "/usr/local/share/wonder3/dtd/twonder_speakerarray.dtd"
+Install file: "dtd/scoreplayer_config.dtd" as "/usr/local/share/wonder3/dtd/scoreplayer_config.dtd"
+Install file: "dtd/scoreplayer_score.dtd" as "/usr/local/share/wonder3/dtd/scoreplayer_score.dtd"
+Install file: "obj/cwonder/cwonder-daemon-config" as "/etc/default/cwonder-daemon"
+Install file: "src/cwonder/cwonder-daemon" as "/etc/init.d/cwonder-daemon"
+Install file: "obj/jfwonder/jfwonder-daemon-config" as "/etc/default/jfwonder-daemon"
+Install file: "src/jfwonder/jfwonder-daemon" as "/etc/init.d/jfwonder-daemon"
+scons: done building targets.
+fohl@FOHL-PC02:wonder3.1.9$ which xwonder
+fohl@FOHL-PC02:wonder3.1.9$ which xwonder3
+/usr/local/bin/xwonder3
+fohl@FOHL-PC02:wonder3.1.9$ xwonder3
+fohl@FOHL-PC02:wonder3.1.9$ cwonder3 
+  C-c C-cfohl@FOHL-PC02:wonder3.1.9$ cwonder3 &
+[1] 15825
+fohl@FOHL-PC02:wonder3.1.9$ xwonder3
+fohl@FOHL-PC02:wonder3.1.9$ fg
+cwonder3
+  C-c C-cfohl@FOHL-PC02:wonder3.1.9$ 
+fohl@FOHL-PC02:wonder3.1.9$ viewlog
+May  9 11:20:11 FOHL-PC02 kernel: [ 1027.731664] ADDRCONF(NETDEV_UP): usb0: link is not ready
+May  9 11:20:11 FOHL-PC02 kernel: [ 1027.732190] cdc_ncm: usb0: network connection: disconnected
+May  9 11:20:11 FOHL-PC02 kernel: [ 1027.834515] thinkpad_acpi: asked for hotkey mask 0x0070ffbf, but firmware forced it to 0x0070ffbb
+May  9 11:24:27 FOHL-PC02 kernel: [ 1283.001692] Shorewall:net2fw:DROP:IN=wlan0 OUT= MAC=60:67:20:98:5c:a2:f4:6d:04:37:3f:9c:08:00 SRC=192.168.0.102 DST=192.168.0.114 LEN=52 TOS=0x00 PREC=0x00 TTL=128 ID=21888 DF PROTO=TCP SPT=50370 DPT=36733 WINDOW=8192 RES=0x00 SYN URGP=0 
+May  9 11:24:30 FOHL-PC02 kernel: [ 1285.994156] Shorewall:net2fw:DROP:IN=wlan0 OUT= MAC=60:67:20:98:5c:a2:f4:6d:04:37:3f:9c:08:00 SRC=192.168.0.102 DST=192.168.0.114 LEN=52 TOS=0x00 PREC=0x00 TTL=128 ID=21889 DF PROTO=TCP SPT=50370 DPT=36733 WINDOW=8192 RES=0x00 SYN URGP=0 
+May  9 11:24:36 FOHL-PC02 kernel: [ 1291.986511] Shorewall:net2fw:DROP:IN=wlan0 OUT= MAC=60:67:20:98:5c:a2:f4:6d:04:37:3f:9c:08:00 SRC=192.168.0.102 DST=192.168.0.114 LEN=48 TOS=0x00 PREC=0x00 TTL=128 ID=21893 DF PROTO=TCP SPT=50370 DPT=36733 WINDOW=8192 RES=0x00 SYN URGP=0 
+May  9 11:24:36 FOHL-PC02 kernel: [ 1292.317368] Shorewall:net2fw:DROP:IN=wlan0 OUT= MAC=60:67:20:98:5c:a2:f4:6d:04:37:3f:9c:08:00 SRC=192.168.0.102 DST=192.168.0.114 LEN=52 TOS=0x00 PREC=0x00 TTL=128 ID=21894 DF PROTO=TCP SPT=50371 DPT=36733 WINDOW=8192 RES=0x00 SYN URGP=0 
+May  9 11:24:39 FOHL-PC02 kernel: [ 1295.312153] Shorewall:net2fw:DROP:IN=wlan0 OUT= MAC=60:67:20:98:5c:a2:f4:6d:04:37:3f:9c:08:00 SRC=192.168.0.102 DST=192.168.0.114 LEN=52 TOS=0x00 PREC=0x00 TTL=128 ID=21897 DF PROTO=TCP SPT=50371 DPT=36733 WINDOW=8192 RES=0x00 SYN URGP=0 
+May  9 11:24:45 FOHL-PC02 kernel: [ 1301.304510] Shorewall:net2fw:DROP:IN=wlan0 OUT= MAC=60:67:20:98:5c:a2:f4:6d:04:37:3f:9c:08:00 SRC=192.168.0.102 DST=192.168.0.114 LEN=48 TOS=0x00 PREC=0x00 TTL=128 ID=21902 DF PROTO=TCP SPT=50371 DPT=36733 WINDOW=8192 RES=0x00 SYN URGP=0 
+May  9 11:44:23 FOHL-PC02 rsyslogd: [origin software="rsyslogd" swVersion="5.8.11" x-pid="2990" x-info="http://www.rsyslog.com"] rsyslogd was HUPed
+  C-c C-cfohl@FOHL-PC02:wonder3.1.9$ cwonder3 -d -u fohl -v
+fohl@FOHL-PC02:wonder3.1.9$ jfwonder3 -d -u fohl -v
+fohl@FOHL-PC02:wonder3.1.9$ ps aux | grep wonder
+fohl     15890  2.1  0.1 119788 10680 ?        Ssl  12:10   0:00 cwonder3 -d -u 
+fohl     15896  0.0  0.0   9892   920 pts/3    S+   12:11   0:00 grep wonder
+fohl@FOHL-PC02:wonder3.1.9$ kill 15890
+fohl@FOHL-PC02:wonder3.1.9$ ps aux | grep wonder
+fohl     15898  0.0  0.0   9892   920 pts/3    S+   12:11   0:00 grep wonder
+fohl@FOHL-PC02:wonder3.1.9$ qjackctl &
+[1] 15899
+fohl@FOHL-PC02:wonder3.1.9$ killall knotify
+knotify: Kein Prozess gefunden
+fohl@FOHL-PC02:wonder3.1.9$ /usr/bin/jackd -dalsa -dhw:0 -r44100 -p128 -n2 -D -Chw:0 &
+[2] 15946
+[1]   Fertig                  qjackctl
+fohl@FOHL-PC02:wonder3.1.9$ jackdmp 1.9.9
+Copyright 2001-2005 Paul Davis and others.
+Copyright 2004-2012 Grame.
+jackdmp comes with ABSOLUTELY NO WARRANTY
+This is free software, and you are welcome to redistribute it
+under certain conditions; see the file COPYING for details
+no message buffer overruns
+no message buffer overruns
+no message buffer overruns
+JACK server starting in realtime mode with priority 10
+control device hw:0
+control device hw:0
+audio_reservation_init
+Failed to acquire device name : Audio0 error : Method "RequestRelease" with signature "i" on interface "org.freedesktop.ReserveDevice1" doesn't exist
+
+Audio device hw:0 cannot be acquired...
+Cannot initialize driver
+JackServer::Open failed with -1
+Failed to open server
+
+[2]+  Exit 255                /usr/bin/jackd -dalsa -dhw:0 -r44100 -p128 -n2 -D -Chw:0
+fohl@FOHL-PC02:wonder3.1.9$ cwonder3 -d -u fohl -v
+fohl@FOHL-PC02:wonder3.1.9$ jfwonder3 -d -u fohl -v
+fohl@FOHL-PC02:wonder3.1.9$ ps aux | grep wonder
+fohl     16012  0.8  0.1 119788 10684 ?        Ssl  12:16   0:00 cwonder3 -d -u 
+fohl     16015  1.7  1.1 201376 91416 ?        SLsl 12:16   0:00 jfwonder3 -d -u
+fohl     16021  0.0  0.0   9892   920 pts/3    S+   12:16   0:00 grep wonder
+fohl@FOHL-PC02:wonder3.1.9$ xwonder &
+[1] 16028
+fohl@FOHL-PC02:wonder3.1.9$ bash: xwonder: Kommando nicht gefunden.
+
+[1]+  Exit 127                xwonder
+fohl@FOHL-PC02:wonder3.1.9$ xwonder3 &
+[1] 16029
+fohl@FOHL-PC02:wonder3.1.9$ killall jfwonder3
+jfwonder3: Kein Prozess gefunden
+[1]+  Fertig                  xwonder3
+fohl@FOHL-PC02:wonder3.1.9$ ps aux | grep wonder
+fohl     16012  0.0  0.1 119788 10684 ?        Ssl  12:16   0:01 cwonder3 -d -u 
+fohl     16928  0.0  0.0   9896   916 pts/3    S+   16:12   0:00 grep wonder
+fohl@FOHL-PC02:wonder3.1.9$ killall cwonder3
+fohl@FOHL-PC02:wonder3.1.9$ cwonder3 -d -u fohl -v
+fohl@FOHL-PC02:wonder3.1.9$ jfwonder3 -d -u fohl -v
+fohl@FOHL-PC02:wonder3.1.9$ # xwonder auf anderer Konsole gestartet
+fohl@FOHL-PC02:wonder3.1.9$ netstat -enpa | grep wonder
+(Es konnten nicht alle Prozesse identifiziert werden; Informationen über
+nicht-eigene Processe werden nicht angezeigt; Root kann sie anzeigen.)
+udp        0      0 0.0.0.0:58100           0.0.0.0:*                           1000       34904       16948/cwonder3  
+udp        0      0 0.0.0.0:58400           0.0.0.0:*                           1000       40452       17089/xwonder3  
+udp        0      0 0.0.0.0:58600           0.0.0.0:*                           1000       38774       16951/jfwonder3 
+unix  3      [ ]         STREAM     VERBUNDEN     40531    17089/xwonder3      /tmp/ksocket-fohl/kfilemodulej17089.slave-socket
+unix  3      [ ]         STREAM     VERBUNDEN     40530    17089/xwonder3      /tmp/ksocket-fohl/kfilemoduleT17089.slave-socket
+unix  3      [ ]         STREAM     VERBUNDEN     40523    17089/xwonder3      
+unix  3      [ ]         STREAM     VERBUNDEN     40450    17089/xwonder3      
+unix  3      [ ]         STREAM     VERBUNDEN     40449    17089/xwonder3      
+unix  3      [ ]         STREAM     VERBUNDEN     40448    17089/xwonder3      
+unix  2      [ ]         DGRAM                    33663    16948/cwonder3      
+unix  3      [ ]         STREAM     VERBUNDEN     34912    16951/jfwonder3     /dev/shm/jack_showtime_1000_0
+unix  3      [ ]         STREAM     VERBUNDEN     34202    16951/jfwonder3     
+fohl@FOHL-PC02:wonder3.1.9$ ps ax | grep wonder
+16948 ?        Ssl    0:23 cwonder3 -d -u fohl -v
+16951 ?        SLsl   0:37 jfwonder3 -d -u fohl -v
+17212 pts/3    S+     0:00 grep wonder
+fohl@FOHL-PC02:wonder3.1.9$ kill 16951
+fohl@FOHL-PC02:wonder3.1.9$ kill 16948
+fohl@FOHL-PC02:wonder3.1.9$ netstat -enpa | grep wonder
+(Es konnten nicht alle Prozesse identifiziert werden; Informationen über
+nicht-eigene Processe werden nicht angezeigt; Root kann sie anzeigen.)
+fohl@FOHL-PC02:wonder3.1.9$ exit
+
+Process shell exited abnormally with code 1

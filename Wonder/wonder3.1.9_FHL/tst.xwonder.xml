@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE cwonder_project SYSTEM "cwonder_project.dtd">
+<cwonder_project name="tst.xwonder" scorefile="">
+  <scenario>
+    <source id="0" type="1" name="Source #1" posx="0" posy="-0.5" angle="-0" groupId="0" colorR="0" colorG="0" colorB="255" invRotation="0" invScaling="0" doppler="1"/>
+    <source id="1" type="1" name="Source #2" posx="0" posy="-0.5" angle="-0" groupId="0" colorR="140" colorG="22" colorB="22" invRotation="0" invScaling="0" doppler="1"/>
+    <source id="2" type="1" name="Source #3" posx="0" posy="-0.5" angle="-0" groupId="0" colorR="81" colorG="124" colorB="117" invRotation="0" invScaling="0" doppler="1"/>
+    <source id="3" type="1" name="Source #4" posx="0" posy="-0.5" angle="-0" groupId="0" colorR="216" colorG="216" colorB="22" invRotation="0" invScaling="0" doppler="1"/>
+    <source id="4" type="1" name="Source #5" posx="0" posy="-0.5" angle="-0" groupId="0" colorR="49" colorG="204" colorB="49" invRotation="0" invScaling="0" doppler="1"/>
+    <source id="5" type="1" name="Source #6" posx="0" posy="-0.5" angle="-0" groupId="0" colorR="255" colorG="0" colorB="0" invRotation="0" invScaling="0" doppler="1"/>
+  </scenario>
+</cwonder_project>

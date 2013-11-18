@@ -1,0 +1,439 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.5.7)  12 JUN 2013 12:09
+entering extended mode
+**SDD.tex
+(C:\Users\Luuc\Documents\Studium\audiopr\Dokumentation\SDD\SDD.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files (x86)\Miktext\tex\latex\koma-script\scrartcl.cls"
+Document Class: scrartcl 2012/03/08 v3.10a KOMA-Script document class (article)
+
+("C:\Program Files (x86)\Miktext\tex\latex\koma-script\scrkbase.sty"
+Package: scrkbase 2012/03/08 v3.10a KOMA-Script package (KOMA-Script-dependent 
+basics and keyval usage)
+
+("C:\Program Files (x86)\Miktext\tex\latex\koma-script\scrbase.sty"
+Package: scrbase 2012/03/08 v3.10a KOMA-Script package (KOMA-Script-independent
+ basics and keyval usage)
+
+("C:\Program Files (x86)\Miktext\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\Miktext\tex\latex\koma-script\scrlfile.sty"
+Package: scrlfile 2011/03/09 v3.09 KOMA-Script package (loading files)
+
+Package scrlfile, 2011/03/09 v3.09 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) ("C:\Program Files (x86)\Miktext\tex\latex\koma-script\tocbasic.sty"
+Package: tocbasic 2011/05/30 v3.09a KOMA-Script package (handling toc-files)
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 115.
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 116.
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 117.
+Class scrartcl Info: File `scrsize11pt.clo' used instead of
+(scrartcl)           file `scrsize11.clo' to setup font sizes on input line 126
+3.
+
+("C:\Program Files (x86)\Miktext\tex\latex\koma-script\scrsize11pt.clo"
+File: scrsize11pt.clo 2012/03/08 v3.10a KOMA-Script font size class option (11p
+t)
+)
+("C:\Program Files (x86)\Miktext\tex\latex\koma-script\typearea.sty"
+Package: typearea 2012/03/08 v3.10a KOMA-Script package (type area)
+
+Package typearea, 2012/03/08 v3.10a KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+\ta@bcor=\skip41
+\ta@div=\count79
+Package typearea Info: You've used standard option `a4paper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=a4'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a4' there
+(typearea)             instead of `a4paper', too.
+\ta@hblk=\skip42
+\ta@vblk=\skip43
+\ta@temp=\skip44
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 418.25555pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 17.3562pt
+(typearea)              \oddsidemargin  = 17.3562pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 595.80026pt
+(typearea)              \topmargin      = -25.16531pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.60002pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1177.
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\abovecaptionskip=\skip45
+\belowcaptionskip=\skip46
+\c@pti@nb@sid@b@x=\box26
+\c@figure=\count86
+\c@table=\count87
+\bibindent=\dimen102
+) ("C:\Program Files (x86)\Miktext\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files (x86)\Miktext\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+("C:\Program Files (x86)\Miktext\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+("C:\Program Files (x86)\Miktext\tex\latex\base\latin9.def"
+File: latin9.def 2008/03/30 v1.1d Input encoding file
+))
+("C:\Program Files (x86)\Miktext\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\Miktext\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\Miktext\tex\generic\babel\ngermanb.ldf"
+Language: ngermanb 2008/07/06 v2.6n new German support from the babel system
+
+("C:\Program Files (x86)\Miktext\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\l@naustrian = a dialect from \language\l@ngerman 
+Package babel Info: Making " an active character on input line 92.
+))
+("C:\Program Files (x86)\Miktext\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\Miktext\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\Miktext\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\Miktext\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\Miktext\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\Miktext\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("C:\Program Files (x86)\Miktext\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count89
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+("C:\Program Files (x86)\Miktext\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\Miktext\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\Miktext\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen106
+))
+("C:\Program Files (x86)\Miktext\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen107
+)
+("C:\Program Files (x86)\Miktext\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count90
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count91
+\leftroot@=\count92
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count93
+\DOTSCASE@=\count94
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
+\dotsspace@=\muskip10
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks18
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks19
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks20
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Program Files (x86)\Miktext\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files (x86)\Miktext\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+("C:\Program Files (x86)\Miktext\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count102
+\float@exts=\toks22
+\float@box=\box29
+\@float@everytoks=\toks23
+\@floatcapt=\box30
+)
+("C:\Program Files (x86)\Miktext\tex\latex\tools\longtable.sty"
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip50
+\LTright=\skip51
+\LTpre=\skip52
+\LTpost=\skip53
+\LTchunksize=\count103
+\LTcapwidth=\dimen115
+\LT@head=\box31
+\LT@firsthead=\box32
+\LT@foot=\box33
+\LT@lastfoot=\box34
+\LT@cols=\count104
+\LT@rows=\count105
+\c@LT@tables=\count106
+\c@LT@chunks=\count107
+\LT@p@ftn=\toks24
+)
+Class scrartcl Info: longtable captions redefined on input line 10.
+
+("C:\Program Files (x86)\Miktext\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen116
+)
+("C:\Program Files (x86)\Miktext\tex\latex\rotating\rotating.sty"
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+("C:\Program Files (x86)\Miktext\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count108
+\rotFPtop=\skip54
+\rotFPbot=\skip55
+\rot@float@box=\box35
+\rot@mess@toks=\toks25
+)
+("C:\Program Files (x86)\Miktext\tex\latex\rotfloat\rotfloat.sty"
+Package: rotfloat 2004/01/04 v1.2 Combining float+rotating package (AS)
+Package rotfloat Info: float package v1.3 detected on input line 74.
+)
+(C:\Users\Luuc\Documents\Studium\audiopr\Dokumentation\SDD\SDD.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+("C:\Program Files (x86)\Miktext\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count109
+\scratchdimen=\dimen117
+\scratchbox=\box36
+\nofMPsegments=\count110
+\nofMParguments=\count111
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count112
+\MPscratchDim=\dimen118
+\MPnumerator=\count113
+\makeMPintoPDFobject=\count114
+\everyMPtoPDFconversion=\toks27
+)
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 18.
+ ("C:\Program Files (x86)\Miktext\tex\latex\base\t1cmss.fd"
+File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+
+LaTeX Warning: No \author given.
+
+[1
+
+
+{C:/Users/Luuc/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+(C:\Users\Luuc\Documents\Studium\audiopr\Dokumentation\SDD\SDD.toc)
+\tf@toc=\write3
+ [3]
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+<interakt_wfs.jpg, id=17, 617.0279pt x 179.4705pt>
+File: interakt_wfs.jpg Graphic file (type jpg)
+ <use interakt_wfs.jpg>
+Package pdftex.def Info: interakt_wfs.jpg used on input line 63.
+(pdftex.def)             Requested size: 426.79134pt x 124.14148pt.
+
+Overfull \hbox (8.53578pt too wide) in paragraph at lines 63--64
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+[4 <C:/Users/Luuc/Documents/Studium/audiopr/Dokumentation/SDD/interakt_wfs.jpg>
+] <Architektur.jpg, id=22, 1923.3456pt x 1063.8144pt>
+File: Architektur.jpg Graphic file (type jpg)
+ <use Architektur.jpg>
+Package pdftex.def Info: Architektur.jpg used on input line 95.
+(pdftex.def)             Requested size: 426.79134pt x 236.05272pt.
+
+Overfull \hbox (8.53578pt too wide) in paragraph at lines 95--96
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--110
+
+ []
+
+[5 <C:/Users/Luuc/Documents/Studium/audiopr/Dokumentation/SDD/Architektur.jpg>]
+<Klassendiagramm.jpg, id=26, 5125.1475pt x 2716.1475pt>
+File: Klassendiagramm.jpg Graphic file (type jpg)
+
+<use Klassendiagramm.jpg>
+Package pdftex.def Info: Klassendiagramm.jpg used on input line 114.
+(pdftex.def)             Requested size: 569.05511pt x 301.55397pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--115
+
+ []
+
+[6] [7 <C:/Users/Luuc/Documents/Studium/audiopr/Dokumentation/SDD/Klassendiagra
+mm.jpg>] [8] <StartDriving.jpeg, id=40, 363.60844pt x 716.6775pt>
+File: StartDriving.jpeg Graphic file (type jpg)
+
+<use StartDriving.jpeg>
+Package pdftex.def Info: StartDriving.jpeg used on input line 127.
+(pdftex.def)             Requested size: 227.62204pt x 448.65503pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--128
+
+ []
+
+[9 <C:/Users/Luuc/Documents/Studium/audiopr/Dokumentation/SDD/StartDriving.jpeg
+>] <DistanceCalc.jpeg, id=44, 466.74374pt x 1223.32031pt>
+File: DistanceCalc.jpeg Graphic file (type jpg)
+
+<use DistanceCalc.jpeg>
+Package pdftex.def Info: DistanceCalc.jpeg used on input line 133.
+(pdftex.def)             Requested size: 199.16928pt x 522.02289pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--134
+
+ []
+
+[10 <C:/Users/Luuc/Documents/Studium/audiopr/Dokumentation/SDD/DistanceCalc.jpe
+g>]
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+\T1/cmr/m/n/10.95 Controllerserver OSC-Nachrichten
+ []
+
+
+Overfull \hbox (10.97876pt too wide) in paragraph at lines 166--193
+[] 
+ []
+
+[11] [12] (C:\Users\Luuc\Documents\Studium\audiopr\Dokumentation\SDD\SDD.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3798 strings out of 494045
+ 52733 string characters out of 3147182
+ 138309 words of memory out of 3000000
+ 7026 multiletter control sequences out of 15000+200000
+ 14602 words of font info for 39 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 38i,9n,47p,847b,347s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Luuc\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
+csx1200.pk> <C:\Users\Luuc\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec
+\dpi600\ecsx1095.pk> <C:\Users\Luuc\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jk
+nappen\ec\dpi600\ecsx1440.pk> <C:\Users\Luuc\AppData\Local\MiKTeX\2.9\fonts\pk\
+ljfour\jknappen\ec\dpi600\ecbx1095.pk> <C:\Users\Luuc\AppData\Local\MiKTeX\2.9\
+fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk> <C:\Users\Luuc\AppData\Local\Mi
+KTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx2074.pk> <C:\Users\Luuc\AppData
+\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk><C:/Program Fi
+les (x86)/Miktext/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (
+x86)/Miktext/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/M
+iktext/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on SDD.pdf (12 pages, 2939523 bytes).
+PDF statistics:
+ 355 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+

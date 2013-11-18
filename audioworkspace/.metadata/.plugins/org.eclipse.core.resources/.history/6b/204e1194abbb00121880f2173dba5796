@@ -1,0 +1,5 @@
+package osccontroller;
+
+public interface IController {
+
+}

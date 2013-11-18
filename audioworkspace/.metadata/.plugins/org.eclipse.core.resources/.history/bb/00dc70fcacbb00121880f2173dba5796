@@ -1,0 +1,23 @@
+package osccontroller;
+
+public interface IController {
+	
+	/**
+	 * Methode zum hinzufuegen von SoundSpuren.
+	 *  
+	 * @param cubaseOSCPath - OSC Pfad der Spur fuer das Cubase-Server-PlugIn
+	 * @param wonderID - Integer-ID der SPur fuer xWonder
+	 * @param startKilometer - Entfernung vom Punkt 0 ab der die Spur aktiviert werden soll
+	 */
+	public void addTrack(String cubaseOSCPath, int wonderID, int startKilometer);
+	
+	
+	/**
+	 * Methode zum updaten der Entfernung
+	 * 
+	 * @param speed - Aktuelle Geschwindigkeit des Autos
+	 * @param time - Zeitpunkt der Messung 
+	 */
+	public void updateSpeed(float speed, java.util.Date time);
+	
+}

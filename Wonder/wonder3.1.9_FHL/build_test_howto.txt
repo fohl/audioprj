@@ -1,0 +1,68 @@
+-*- mode:outline -*-
+* Bauen und Testen von wonder
+* Benötigte Pakete installieren
+** sudo aptitude install build-essential  \
+                         scons            \
+                         qjackctl         \
+                         libxml++2.6-dev  \
+                         libglu1-mesa-dev \
+                         libqt4-dev       \
+                         libjack-jackd2-dev
+* Quellen entpacken und in das  oberste Verzeichnis wechseln
+** Projekt kompilieren
+*** scons wfs=1
+** Projekt installieren (Default: /usr/local)
+*** sudo scons install
+** Installation überprüfen. Die folgenden Befehle sollten den Pfad zu den
+   Executables ausgeben
+*** which cwonder3
+*** which xwonder3
+*** which jfwonder3
+** Jack starten über qjackctl
+*** qjackctl &
+** Wonder-Programme starten
+*** cwonder3 -d -u $MEIN_BENUTZERNAME -v &
+*** jfwonder3 -d -u $MEIN_BENUTZERNAME -v &
+** Prüfen, ob die Programme laufen
+*** ps aux | grep wonder
+fohl     16012  0.8  0.1 119788 10684 ?        Ssl  12:16   0:00 cwonder3 -d -u 
+fohl     16015  1.7  1.1 201376 91416 ?        SLsl 12:16   0:00 jfwonder3 -d -u
+fohl     16021  0.0  0.0   9892   920 pts/3    S+   12:16   0:00 grep wonder
+
+** xwonder starten
+*** xwonder3 &
+
+** Hier kann jetzt ein Projekt erzeugt werden.
+   Wenn wenigstens eine Quelle da ist, kann diese durch Senden
+   einer OSC-Nachricht an localhost:58100
+
+   "/WONDER/source/position", "iff", kndx, 0, -0.5
+
+   bewegt werden
+
+** Bemerkung:
+   Bei meinem Test stürzte xwonder3 dabei häufig ab und musste neu gestartet werden.
+
+** Abhilfe: xwonder mit Argument -t 0 starten, dann wird nicht
+   auf timeouts überwacht:
+*** xwonder -t 0
+
+* Kurzfassung Test:
+cwonder3 -d -u $MEIN_BENUTZERNAME -v &
+xwonder -t 0
+** Programme prüfen
+ps ax | grep wonder
+25651 ?        Ssl    0:04 cwonder3 -d -u fohl -v
+25654 pts/0    Sl     0:09 xwonder3 -t 0
+
+** Netzwerkverbindungen prüfen:
+netstat -eanp | grep wonder
+sudo netstat -enap |  grep wonder
+tcp6       0      0 ::1:52729               ::1:6010                VERBUNDEN   1000       91311       25654/xwonder3  
+udp        0      0 0.0.0.0:58100           0.0.0.0:*                           1000       90470       25651/cwonder3  
+udp        0      0 0.0.0.0:58400           0.0.0.0:*                           1000       91314       25654/xwonder3  
+unix  2      [ ]         DGRAM                    87981    25651/cwonder3      
+
+** Nun können OSC-Nachrichten an cwonder an Port 58100 gesendet werden
+   (sofern die Firewall diesen Port zulässt)
+*** Auf meinem Laptop getestet: W. Fohl 10.05.2013

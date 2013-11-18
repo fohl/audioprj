@@ -1,0 +1,33 @@
+-*- mode:outline -*-
+* Vorgehen zum Einrichten eines WFS-Ad-Hoc-Netzwerks
+* Konfiguration:
+** Hotspot = Mac
+*** ESSID = "wfss Mac Pro"
+    IP = 192.168.10.200
+    WEP-PW="12345"
+** Auf Mac: IP-Forwarding einrichten:
+   sudo sysctl -w net.inet.ip.forwarding=1
+   (PW: wfs2011)
+** Auf WFS-Rechner (192.168.3.1): Routing ergänzen
+   sudo route add -net 192.168.10.0 \
+      netmask 255.255.255.0 dev eth0 gw 192.168.3.254
+* Verbinden und testen
+** Externes Notebook: WLAN-Verbindung mit "wfss Mac Pro" konfigurieren
+*** Manuelle IP-Adresse
+    Notebook Frederik Klauß 192.168.10.21
+    Notebook Wolfgang Fohl  192.168.10.201
+*** Gateway: 192.168.10.200    
+** Test von externem Notebook
+   ping 192.168.3.1
+   muss funktionieren (das ist der WFS-Rechner)
+* Aufräumen:
+** Mac
+*** AirPort wieder auf HAW 1.X
+*** sudo sysctl -w net.inet.ip.forwarding=0
+*** (oder Neustart)
+** WFS-Rechner
+*** sudo route del -net 192.168.10.0 netmask 255.255.255.0
+*** (oder Neustart)
+* Nächster Test: OSC-Messages von externem Notebook zum WFS-Rechner
+
+

@@ -1,0 +1,60 @@
+1. WFS-Anlage nach Anleitung Starten
+
+2. Mac:
+- Dante Controller: 1-8 Receiver Kanäle (Mac) auf 1-8 Kanäle vom Ausgangs-PC mappen
+- QjackControl: Connect, Audiomapping Mac Eingänge auf System Playback legen (1-8 Quellen)
+- Xwonder: Projekt muss geladen sein
+- Ad-hoc Netz aufmachen
+
+3. DELL:
+- Firewalls und Antivirenprogramm ausschalten
+- Dante Audio Manager Dienst starten
+- Dante Manager starten
+- Netzwerk: Ethernet
+- Cubase: Geräte-Manager ? Dante einstellen, VST-Verbindungen Mapping einstellen (BUS hinzufügen), Projekt: Spuren auf Ausgänge mappen
+- Statische IP einrichten
+
+4. WFS Rechner:
+- Route einrichten: sudo route add -net 192.168.10.0 netmask 255.255.255.0 dev eth0 gw 192.168.3.254
+
+5. Mac:
+- Weiterleitung einrichten: sudo sysctl -w net.inet.ip.forwarding=1
+
+6. Ping-Check:
+- WFS
+- DELL
+
+
+
+
+
+Speicherorte (DELL):
+Cubase Projekt: C:\Users\Rikitier\Documents\Studium\BAI5\CubaseProj
+Audiofiles: C:\Users\Rikitier\Documents\Studium\BAI5\Audioprojekt\Audio\Audiodateien
+
+
+
+Reihenfolge Audiodateien:
+1. baaaahhhh (Schafe am Deich)
+2. Trabrennbahn (Bahrenfeld)
+3. Hamburg Dammtor (Theodor Heuss Platz 1)
+4. Glocken (St. Michaelis)
+5. St. Pauli (Reeperbahn)
+6. Fischmarkt (St. Pauli Fischauktionshalle)
+7. Hafenrundfahrt (HAW....)
+8. Airport (Airport Hamburg)
+
+
+
+
+
+Mögliche Probleme:
+Alex Fette Mama beeinträchtigt die Audio Qualität durch gravitationsfeld
+
+Plugins reagieren eigenartig:
+- Neues QBase Projekt anlegen
+
+Rikitier-Lap wird nicht am Dante Controller erkannt:
+- Dante schnittstelle neu starten auf Rikitier-Lap
+
+
